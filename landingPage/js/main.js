@@ -19,12 +19,14 @@
             this.txt = fullTxt.substring(0, this.txt.length + 1);
         }
 
-        this.el.innerHTML = '<span class="wrap">'+this.txt+'</span>';
+        this.el.innerHTML = '<span class="wrap">' + this.txt + '</span>';
 
         var that = this;
         var delta = 100 - Math.random() * 50;
 
-        if (this.isDeleting) { delta /= 2; }
+        if (this.isDeleting) {
+            delta /= 2;
+        }
 
         if (!this.isDeleting && this.txt === fullTxt) {
             delta = this.period;
@@ -45,7 +47,7 @@
 
     window.onload = function() {
         var elements = document.getElementsByClassName('typewrite');
-        for (var i=0; i<elements.length; i++) {
+        for (var i = 0; i < elements.length; i++) {
             var toRotate = elements[i].getAttribute('data-type');
             var period = elements[i].getAttribute('data-period');
             if (toRotate) {
@@ -64,7 +66,9 @@
     'use strict';
 
     // scrollspy
-    $('body').scrollspy({ target: '#navigation' });
+    $('body').scrollspy({
+        target: '#navigation'
+    });
 
     // smooth scrolling
     $(function() {
@@ -103,19 +107,18 @@
         slidesToShow: 4,
         slidesToScroll: 4,
         responsive: [{
-                breakpoint: 600,
-                settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
-                }
-            }, {
-                breakpoint: 480,
-                settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
-                }
+            breakpoint: 600,
+            settings: {
+                slidesToShow: 2,
+                slidesToScroll: 2
             }
-        ]
+        }, {
+            breakpoint: 480,
+            settings: {
+                slidesToShow: 1,
+                slidesToScroll: 1
+            }
+        }]
     });
 
     // testimonial carousel
@@ -223,4 +226,3 @@
     });
 
 })(jQuery);
-
