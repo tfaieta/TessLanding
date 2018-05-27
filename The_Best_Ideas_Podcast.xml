@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>The Best Ideas Podcast</title>
+        <description>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</description>
+        <link>https://tess.fm/The_Best_Ideas_Podcast.xml</link>
+        <copyright>2018 Tess Technologies</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <lastBuildDate>Sun, 27 May 2018 14:25:04 -0400</lastBuildDate>
+        <pubDate>Sun, 27 May 2018 14:24:57 -0400</pubDate>
+        <generator>FeedForAll Mac v2.1 (2.1.0.1) unlicensed version; http://www.FeedForAll.com/</generator>
+        <itunes:subtitle>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:subtitle>
+        <itunes:summary>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:summary>
+        <itunes:category text="Society &amp; Culture"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy"/>
+        </itunes:category>
+        <itunes:category text="Science &amp; Medicine">
+            <itunes:category text="Social Sciences"/>
+        </itunes:category>
+        <itunes:keywords>Taylor Shrum, Tess Media, The Best Ideas, Best Ideas, Ideas, Philosophy, The Best Ideas Podcast</itunes:keywords>
+        <itunes:author>Tess Media</itunes:author>
+        <itunes:owner>
+            <itunes:email>team@discovertess.com</itunes:email>
+            <itunes:name>Tess Media</itunes:name>
+        </itunes:owner>
+        <itunes:image href="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BestIdeas.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <url>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BestIdeas.jpg</url>
+            <title>The Best Ideas Podcast</title>
+            <link>https://tess.fm/The_Best_Ideas_Podcast.xml</link>
+            <description></description>
+            <width>3000</width>
+            <height>3000</height>
+        </image>
+        <item>
+            <title>Ep 1. Initiative - (ft. Mathew Farina)</title>
+            <description>Initiative is one of the best ideas and it’s behind all of humanities greatness innovations.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI1.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI1.mp3" length="004343" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">9DCB49F7-77A7-4298-86FD-61C683CEFB24-49183-0000ABF04C358DC6-FFA</guid>
+            <pubDate>Sun, 27 May 2018 14:15:29 -0400</pubDate>
+            <itunes:subtitle>Initiative is one of the best ideas and it’s behind all of humanities greatness innovations.</itunes:subtitle>
+            <itunes:summary>Initiative is one of the best ideas and it’s behind all of humanities greatness innovations.</itunes:summary>
+            <itunes:duration>43:43</itunes:duration>
+            <itunes:keywords>Initiative, The Best Ideas Podcast, Taylor Shrum, Tess Media, Taylor, Matthew Farina, Matt Farina, Innovations, Best Ideas</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>

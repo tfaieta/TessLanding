@@ -7,8 +7,8 @@
         <copyright>2018 Tess Technologies LLC.</copyright>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <lastBuildDate>Tue, 22 May 2018 02:05:57 -0400</lastBuildDate>
-        <pubDate>Tue, 22 May 2018 02:05:55 -0400</pubDate>
+        <lastBuildDate>Wed, 23 May 2018 19:58:22 -0400</lastBuildDate>
+        <pubDate>Wed, 23 May 2018 19:58:21 -0400</pubDate>
         <generator>FeedForAll Mac v2.1 (2.1.0.1) unlicensed version; http://www.FeedForAll.com/</generator>
         <itunes:subtitle>Four friends, hard topics, quick responses.</itunes:subtitle>
         <itunes:summary>There is something about a podcast studio that can make four friends feel the need to record a conversation about the things we want to talk about with each other. IDK is just that, a podcast where four friends dive deep into their thoughts and opinions about their favorite and least favorite topics, the product is an hour of laughably intriguing podcasting? 
@@ -25,10 +25,10 @@ IDK Podcast is a Tess Media Original Podcast. </itunes:summary>
             <itunes:email>team@discovertess.com</itunes:email>
             <itunes:name>Tess Technologies LLC</itunes:name>
         </itunes:owner>
-        <itunes:image href="https://firebasestorage.googleapis.com/v0/b/tess-36c94.appspot.com/o/TessMedia%2FIDKPodcast%2FIDK.jpg?alt=media&amp;token=48acfcd9-cdb4-4046-8e6f-b0b43c5af6af" />
+        <itunes:image href="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK.jpg" />
         <itunes:explicit>no</itunes:explicit>
         <image>
-            <url>https://firebasestorage.googleapis.com/v0/b/tess-36c94.appspot.com/o/TessMedia%2FIDKPodcast%2FIDK.jpg?alt=media&amp;token=48acfcd9-cdb4-4046-8e6f-b0b43c5af6af</url>
+            <url>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK.jpg</url>
             <title>IDK Podcast</title>
             <link>https://tess.fm/IDKPodcast.xml</link>
             <description></description>
@@ -38,10 +38,10 @@ IDK Podcast is a Tess Media Original Podcast. </itunes:summary>
         <item>
             <title>Episode 1: Materialism, Google Homes Making Us Lazy &amp; Tinder</title>
             <description>Tony talks to everyone about materialism to show Tim that he may be looking for happiness in the wrong way. Are smart home devices making us smarter or just lazier? Finally, Tinder, good for everyone or bad?</description>
-            <link>https://firebasestorage.googleapis.com/v0/b/tess-36c94.appspot.com/o/TessMedia%2FIDKPodcast%2FIDK%20Podcast%20%231.mp3?alt=media&amp;token=953ea600-cae0-43ef-8a9b-dd2707e93789</link>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/tess-36c94.appspot.com/o/TessMedia%2FIDKPodcast%2FIDK%20Podcast%20%231.mp3?alt=media&amp;token=953ea600-cae0-43ef-8a9b-dd2707e93789" length="011352" type="audio/mpeg"  ></enclosure>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%231.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%231.mp3" length="011352" type="audio/mpeg"  ></enclosure>
             <guid isPermaLink="false">D2980760-36FA-4CB7-BEBB-6DA9C5671462-32454-0000670512A8ECD9-FFA</guid>
-            <pubDate>Tue, 22 May 2018 01:51:55 -0400</pubDate>
+            <pubDate>Wed, 23 May 2018 19:56:19 -0400</pubDate>
             <itunes:subtitle>Episode 1: Materialism, Google Homes Making Us Lazy &amp; Tinder</itunes:subtitle>
             <itunes:summary>Tony talks to everyone about materialism to show Tim that he may be looking for happiness in the wrong way. Are smart home devices making us smarter or just lazier? Finally, Tinder, good for everyone or bad?</itunes:summary>
             <itunes:duration>1:13:52</itunes:duration>
