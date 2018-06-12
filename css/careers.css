@@ -1,0 +1,4827 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,700');
+
+
+.bp1-careers {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1099px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-careers .bp1-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1058px;
+  height              : 41px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-footer .bp1-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-footer .bp1-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1330px;
+}
+.bp1-careers .bp1-footer .bp1-social .bp1-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-footer .bp1-social .bp1-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp1-careers .bp1-footer .bp1-social .bp1-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp1-careers .bp1-footer .bp1-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp1-careers .bp1-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 857px;
+  height              : 201px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1149px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-careers .bp1-bottom .bp1-contact:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-bottom .bp1-contact .bp1-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-contact .bp1-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-careers .bp1-bottom .bp1-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 870px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-careers .bp1-bottom .bp1-careers1:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-bottom .bp1-careers1 .bp1-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-careers1 .bp1-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-careers .bp1-bottom .bp1-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 591px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-careers .bp1-bottom .bp1-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-bottom .bp1-advertisers .bp1-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-advertisers .bp1-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-careers .bp1-bottom .bp1-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-careers .bp1-bottom .bp1-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-bottom .bp1-podcasts .bp1-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-podcasts .bp1-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-careers .bp1-bottom .bp1-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-careers .bp1-bottom .bp1-about:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-bottom .bp1-about .bp1-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-bottom .bp1-about .bp1-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-careers .bp1-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 413px;
+  height              : 444px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-content .bp1-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 444px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-content .bp1-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 56px;
+  height              : 289px;
+  width               : 1208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+}
+.bp1-careers .bp1-content .bp1-thedream .bp1-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp1-careers .bp1-content .bp1-thedream .bp1-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.bp1-careers .bp1-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 66px;
+  height              : 347px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-top .bp1-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 347px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-top .bp1-careers3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 144.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 175.0px;
+}
+.bp1-careers .bp1-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-navbar .bp1-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-careers .bp1-navbar .bp1-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1374px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-careers .bp1-navbar .bp1-blog:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-navbar .bp1-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1297px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-careers .bp1-navbar .bp1-media:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-navbar .bp1-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-careers .bp1-navbar .bp1-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-navbar .bp1-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 698px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-careers .bp1-navbar .bp1-logo:hover {
+  transform           : scale(1.1);
+}
+.bp1-careers .bp1-navbar .bp1-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-careers .bp1-navbar .bp1-creators:hover {
+  transform           : scale(1.1);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-creatorhdlarge {
+  width               : 100%;
+  min-width           : 2375px;
+  height              : 100vh;
+  min-height          : 1680px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-creatorhdlarge .bp2-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 98px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 98px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2226px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-blog:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2111px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-media:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 80px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1148px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-logo:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-creatorhdlarge .bp2-navbar .bp2-creators:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 68px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.bp2-creatorhdlarge .bp2-footer .bp2-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-footer .bp2-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 35px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2193px;
+}
+.bp2-creatorhdlarge .bp2-footer .bp2-social .bp2-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : 31px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-footer .bp2-social .bp2-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+}
+.bp2-creatorhdlarge .bp2-footer .bp2-social .bp2-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+}
+.bp2-creatorhdlarge .bp2-footer .bp2-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp2-creatorhdlarge .bp2-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1286px;
+  height              : 331px;
+  width               : 2373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 331px;
+  width               : 2373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1918px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-contact:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-contact .bp2-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-contact .bp2-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1458px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-careers:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-careers .bp2-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-careers .bp2-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 998px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-advertisers .bp2-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-advertisers .bp2-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 538px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-podcasts .bp2-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-podcasts .bp2-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 54px;
+  height              : 224px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-about:hover {
+  transform           : scale(1.1);
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-about .bp2-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 224px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-bottom .bp2-about .bp2-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 86px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-creatorhdlarge .bp2-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 445px;
+  height              : 841px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-content .bp2-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 841px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-content .bp2-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 56px;
+  height              : 289px;
+  width               : 1994px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+}
+.bp2-creatorhdlarge .bp2-content .bp2-thedream .bp2-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 1992px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-creatorhdlarge .bp2-content .bp2-thedream .bp2-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 632px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.bp2-creatorhdlarge .bp2-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : 347px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-top .bp2-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 347px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-creatorhdlarge .bp2-top .bp2-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 883px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 144.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 175.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp3-screen1 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-screen1 .bp3-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-footer .bp3-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-footer .bp3-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 910px;
+}
+.bp3-screen1 .bp3-footer .bp3-social .bp3-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-footer .bp3-social .bp3-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp3-screen1 .bp3-footer .bp3-social .bp3-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp3-screen1 .bp3-footer .bp3-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp3-screen1 .bp3-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 782px;
+  height              : 201px;
+  width               : 1055px;
+  position            : absolute;
+  margin              : 0;
+  left                : -9px;
+}
+.bp3-screen1 .bp3-bottom .bp3-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.bp3-screen1 .bp3-bottom .bp3-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 796px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-screen1 .bp3-bottom .bp3-contact:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-bottom .bp3-contact .bp3-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-contact .bp3-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 594px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-screen1 .bp3-bottom .bp3-careers:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-bottom .bp3-careers .bp3-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-careers .bp3-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 392px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-screen1 .bp3-bottom .bp3-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-bottom .bp3-advertisers .bp3-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-advertisers .bp3-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-screen1 .bp3-bottom .bp3-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-bottom .bp3-podcasts .bp3-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-podcasts .bp3-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-screen1 .bp3-bottom .bp3-about:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-bottom .bp3-about .bp3-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-bottom .bp3-about .bp3-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp3-screen1 .bp3-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-navbar .bp3-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-navbar .bp3-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 944px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-screen1 .bp3-navbar .bp3-blog:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-navbar .bp3-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 867px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-screen1 .bp3-navbar .bp3-media:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-navbar .bp3-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-screen1 .bp3-navbar .bp3-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-navbar .bp3-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 490px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-screen1 .bp3-navbar .bp3-logo:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-navbar .bp3-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-screen1 .bp3-navbar .bp3-creators:hover {
+  transform           : scale(1.1);
+}
+.bp3-screen1 .bp3-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 339px;
+  height              : 444px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-content .bp3-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 444px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-content .bp3-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 56px;
+  height              : 332px;
+  width               : 868px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+}
+.bp3-screen1 .bp3-content .bp3-thedream .bp3-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 868px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp3-screen1 .bp3-content .bp3-thedream .bp3-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.bp3-screen1 .bp3-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 65px;
+  height              : 274px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-top .bp3-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 274px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-screen1 .bp3-top .bp3-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 512px;
+  position            : absolute;
+  margin              : 0;
+  left                : 256px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 120.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 146.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp4-screen2 {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 1080px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-screen2 .bp4-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 98px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-navbar .bp4-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 98px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-navbar .bp4-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1816px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-navbar .bp4-blog:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-navbar .bp4-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1701px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-navbar .bp4-media:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-navbar .bp4-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-navbar .bp4-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-navbar .bp4-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 9px;
+  height              : 80px;
+  width               : 80px;
+  position            : absolute;
+  margin              : 0;
+  left                : 920px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-screen2 .bp4-navbar .bp4-logo:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-navbar .bp4-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : auto;
+  width               : 124px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-navbar .bp4-creators:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-footer .bp4-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-footer .bp4-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1797px;
+}
+.bp4-screen2 .bp4-footer .bp4-social .bp4-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-footer .bp4-social .bp4-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp4-screen2 .bp4-footer .bp4-social .bp4-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp4-screen2 .bp4-footer .bp4-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp4-screen2 .bp4-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 838px;
+  height              : 201px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1579px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-screen2 .bp4-bottom .bp4-contact:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-bottom .bp4-contact .bp4-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-contact .bp4-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1195px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-screen2 .bp4-bottom .bp4-careers:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-bottom .bp4-careers .bp4-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-careers .bp4-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-screen2 .bp4-bottom .bp4-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-bottom .bp4-advertisers .bp4-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-advertisers .bp4-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 147px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 425px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-screen2 .bp4-bottom .bp4-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-bottom .bp4-podcasts .bp4-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-podcasts .bp4-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-screen2 .bp4-bottom .bp4-about:hover {
+  transform           : scale(1.1);
+}
+.bp4-screen2 .bp4-bottom .bp4-about .bp4-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-bottom .bp4-about .bp4-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp4-screen2 .bp4-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 467px;
+  height              : 371px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-content .bp4-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 371px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-content .bp4-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 40px;
+  height              : 292px;
+  width               : 1637px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+}
+.bp4-screen2 .bp4-content .bp4-thedream .bp4-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 114px;
+  height              : auto;
+  width               : 1637px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp4-screen2 .bp4-content .bp4-thedream .bp4-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 519px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.bp4-screen2 .bp4-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 100px;
+  height              : 347px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-top .bp4-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 347px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-screen2 .bp4-top .bp4-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 655px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 144.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 175.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp5-screen3 {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1087px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp5-screen3 .bp5-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 602px;
+  height              : 41px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-footer .bp5-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-footer .bp5-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 650px;
+}
+.bp5-screen3 .bp5-footer .bp5-social .bp5-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-footer .bp5-social .bp5-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp5-screen3 .bp5-footer .bp5-social .bp5-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp5-screen3 .bp5-footer .bp5-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-screen3 .bp5-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 845px;
+  height              : 201px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 568px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-screen3 .bp5-bottom .bp5-contact:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-bottom .bp5-contact .bp5-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-contact .bp5-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 426px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-screen3 .bp5-bottom .bp5-careers:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-bottom .bp5-careers .bp5-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-careers .bp5-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-screen3 .bp5-bottom .bp5-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-bottom .bp5-advertisers .bp5-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-advertisers .bp5-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-screen3 .bp5-bottom .bp5-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-bottom .bp5-podcasts .bp5-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-podcasts .bp5-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 32px;
+  height              : 137px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-screen3 .bp5-bottom .bp5-about:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-bottom .bp5-about .bp5-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 137px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-bottom .bp5-about .bp5-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp5-screen3 .bp5-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-navbar .bp5-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-navbar .bp5-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 694px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp5-screen3 .bp5-navbar .bp5-blog:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-navbar .bp5-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 617px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp5-screen3 .bp5-navbar .bp5-media:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-navbar .bp5-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp5-screen3 .bp5-navbar .bp5-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-navbar .bp5-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 362px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-screen3 .bp5-navbar .bp5-logo:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-navbar .bp5-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp5-screen3 .bp5-navbar .bp5-creators:hover {
+  transform           : scale(1.1);
+}
+.bp5-screen3 .bp5-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 290px;
+  height              : 552px;
+  width               : 767px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-content .bp5-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 552px;
+  width               : 767px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-content .bp5-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 56px;
+  height              : 420px;
+  width               : 551px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+}
+.bp5-screen3 .bp5-content .bp5-thedream .bp5-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : 551px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp5-screen3 .bp5-content .bp5-thedream .bp5-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 394px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.bp5-screen3 .bp5-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 65px;
+  height              : 225px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-top .bp5-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 225px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-screen3 .bp5-top .bp5-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 62px;
+  height              : auto;
+  width               : 324px;
+  position            : absolute;
+  margin              : 0;
+  left                : 222px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 72.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 88.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp6-screen4 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 823px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp6-screen4 .bp6-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-navbar .bp6-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-navbar .bp6-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp6-screen4 .bp6-navbar .bp6-blog:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-navbar .bp6-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp6-screen4 .bp6-navbar .bp6-media:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-navbar .bp6-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp6-screen4 .bp6-navbar .bp6-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-navbar .bp6-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp6-screen4 .bp6-navbar .bp6-creators:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-navbar .bp6-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 176px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-screen4 .bp6-navbar .bp6-logo:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 782px;
+  height              : 41px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-footer .bp6-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-footer .bp6-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 280px;
+}
+.bp6-screen4 .bp6-footer .bp6-social .bp6-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-footer .bp6-social .bp6-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp6-screen4 .bp6-footer .bp6-social .bp6-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp6-screen4 .bp6-footer .bp6-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 11.0px;
+}
+.bp6-screen4 .bp6-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 621px;
+  height              : 187px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 25px;
+  height              : 136px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 61px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-screen4 .bp6-bottom .bp6-contact:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-bottom .bp6-contact .bp6-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-contact .bp6-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 60px;
+  height              : 126px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-screen4 .bp6-bottom .bp6-careers:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-bottom .bp6-careers .bp6-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-careers .bp6-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 212px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-screen4 .bp6-bottom .bp6-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-bottom .bp6-advertisers .bp6-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-advertisers .bp6-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-screen4 .bp6-bottom .bp6-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-bottom .bp6-podcasts .bp6-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-podcasts .bp6-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 102px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-screen4 .bp6-bottom .bp6-about:hover {
+  transform           : scale(1.1);
+}
+.bp6-screen4 .bp6-bottom .bp6-about .bp6-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 102px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-bottom .bp6-about .bp6-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-screen4 .bp6-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 259px;
+  height              : 387px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-content .bp6-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 387px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-content .bp6-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 45px;
+  height              : 249px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+}
+.bp6-screen4 .bp6-content .bp6-thedream .bp6-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp6-screen4 .bp6-content .bp6-thedream .bp6-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp6-screen4 .bp6-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 225px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-top .bp6-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 225px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-screen4 .bp6-top .bp6-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 58.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp7-screen5 {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 823px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp7-screen5 .bp7-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 782px;
+  height              : 41px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-footer .bp7-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-footer .bp7-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+}
+.bp7-screen5 .bp7-footer .bp7-social .bp7-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-footer .bp7-social .bp7-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp7-screen5 .bp7-footer .bp7-social .bp7-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp7-screen5 .bp7-footer .bp7-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 11.0px;
+}
+.bp7-screen5 .bp7-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 621px;
+  height              : 187px;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 25px;
+  height              : 136px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 61px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 183px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-screen5 .bp7-bottom .bp7-contact:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-bottom .bp7-contact .bp7-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-contact .bp7-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 60px;
+  height              : 126px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-screen5 .bp7-bottom .bp7-careers:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-bottom .bp7-careers .bp7-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-careers .bp7-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 238px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-screen5 .bp7-bottom .bp7-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-bottom .bp7-advertisers .bp7-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-advertisers .bp7-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-screen5 .bp7-bottom .bp7-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-bottom .bp7-podcasts .bp7-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-podcasts .bp7-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 102px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-screen5 .bp7-bottom .bp7-about:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-bottom .bp7-about .bp7-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 102px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-bottom .bp7-about .bp7-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-screen5 .bp7-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-navbar .bp7-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-navbar .bp7-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 360px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp7-screen5 .bp7-navbar .bp7-blog:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-navbar .bp7-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 311px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp7-screen5 .bp7-navbar .bp7-media:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-navbar .bp7-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 68px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp7-screen5 .bp7-navbar .bp7-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-navbar .bp7-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp7-screen5 .bp7-navbar .bp7-creators:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-navbar .bp7-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-screen5 .bp7-navbar .bp7-logo:hover {
+  transform           : scale(1.1);
+}
+.bp7-screen5 .bp7-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 259px;
+  height              : 387px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-content .bp7-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 387px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-content .bp7-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 45px;
+  height              : 249px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+}
+.bp7-screen5 .bp7-content .bp7-thedream .bp7-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp7-screen5 .bp7-content .bp7-thedream .bp7-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp7-screen5 .bp7-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 225px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-top .bp7-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 225px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-screen5 .bp7-top .bp7-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 58.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp8-screen6 {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 823px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp8-screen6 .bp8-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 201px;
+  height              : 41px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-footer .bp8-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-footer .bp8-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 220px;
+}
+.bp8-screen6 .bp8-footer .bp8-social .bp8-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-footer .bp8-social .bp8-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp8-screen6 .bp8-footer .bp8-social .bp8-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp8-screen6 .bp8-footer .bp8-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 11.0px;
+}
+.bp8-screen6 .bp8-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 625px;
+  height              : 179px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : -15px;
+}
+.bp8-screen6 .bp8-bottom .bp8-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 21px;
+  height              : 136px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+}
+.bp8-screen6 .bp8-bottom .bp8-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 58px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-screen6 .bp8-bottom .bp8-contact:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-bottom .bp8-contact .bp8-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-contact .bp8-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 57px;
+  height              : 122px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-screen6 .bp8-bottom .bp8-careers:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-bottom .bp8-careers .bp8-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 122px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-careers .bp8-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-screen6 .bp8-bottom .bp8-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-bottom .bp8-advertisers .bp8-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-advertisers .bp8-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-screen6 .bp8-bottom .bp8-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-bottom .bp8-podcasts .bp8-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-podcasts .bp8-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 99px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-screen6 .bp8-bottom .bp8-about:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-bottom .bp8-about .bp8-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 99px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-bottom .bp8-about .bp8-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp8-screen6 .bp8-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-navbar .bp8-rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-navbar .bp8-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 277px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp8-screen6 .bp8-navbar .bp8-blog:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-navbar .bp8-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 41px;
+  position            : absolute;
+  margin              : 0;
+  left                : 228px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp8-screen6 .bp8-navbar .bp8-media:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-navbar .bp8-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 54px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp8-screen6 .bp8-navbar .bp8-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-navbar .bp8-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 47px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 10.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 13.0px;
+}
+.bp8-screen6 .bp8-navbar .bp8-creators:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-navbar .bp8-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 6px;
+  height              : 23px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 149px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-screen6 .bp8-navbar .bp8-logo:hover {
+  transform           : scale(1.1);
+}
+.bp8-screen6 .bp8-content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 259px;
+  height              : 387px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-content .bp8-bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 387px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-content .bp8-thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 249px;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+}
+.bp8-screen6 .bp8-content .bp8-thedream .bp8-ifyoulikewhatweu2019 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 280px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp8-screen6 .bp8-content .bp8-thedream .bp8-interested {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp8-screen6 .bp8-top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 34px;
+  height              : 225px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-top .bp8-container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 225px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-screen6 .bp8-top .bp8-careers2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : auto;
+  width               : 210px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 58.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 374px) {
+  .bp8-screen6 {
+    display             : block;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 375px) and (max-width: 413px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : block;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 414px) and (max-width: 767px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : block;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : block;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : block;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 1919px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : block;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1920px) and (max-width: 2374px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : block;
+  }
+  .bp2-creatorhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 2375px) {
+  .bp8-screen6 {
+    display             : none;
+  }
+  .bp6-screen4 {
+    display             : none;
+  }
+  .bp7-screen5 {
+    display             : none;
+  }
+  .bp5-screen3 {
+    display             : none;
+  }
+  .bp3-screen1 {
+    display             : none;
+  }
+  .bp1-careers {
+    display             : none;
+  }
+  .bp4-screen2 {
+    display             : none;
+  }
+  .bp2-creatorhdlarge {
+    display             : block;
+  }
+}

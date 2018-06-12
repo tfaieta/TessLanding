@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>The Best Ideas Podcast</title>
+        <description>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</description>
+        <link>https://tess.fm/The_Best_Ideas_Podcast.xml</link>
+        <copyright>2018 Tess Technologies</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <lastBuildDate>Thu, 07 Jun 2018 22:26:30 -0400</lastBuildDate>
+        <pubDate>Thu, 07 Jun 2018 22:24:28 -0400</pubDate>
+        <itunes:subtitle>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:subtitle>
+        <itunes:summary>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:summary>
+        <itunes:category text="Society &amp; Culture"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy"/>
+        </itunes:category>
+        <itunes:category text="Science &amp; Medicine">
+            <itunes:category text="Social Sciences"/>
+        </itunes:category>
+        <itunes:keywords>Taylor Shrum, Tess Media, The Best Ideas, Best Ideas, Ideas, Philosophy, The Best Ideas Podcast</itunes:keywords>
+        <itunes:author>Tess Media</itunes:author>
+        <itunes:owner>
+            <itunes:email>team@discovertess.com</itunes:email>
+            <itunes:name>Tess Media</itunes:name>
+        </itunes:owner>
+        <itunes:image href="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BestIdeas.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <url>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BestIdeas.jpg</url>
+            <title>The Best Ideas Podcast</title>
+            <link>https://tess.fm/The_Best_Ideas_Podcast.xml</link>
+            <description></description>
+            <width>3000</width>
+            <height>3000</height>
+        </image>
+        <item>
+            <title>Ep. 3 Music - (ft. Tyler Dixon and Joey Steshyn)</title>
+            <description>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI3.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI3.mp3" length="010830" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">D54ECA29-AEED-40AE-BA54-A0BD33846738-27562-0001F4ABFF2F1FCA-FFA</guid>
+            <pubDate>Thu, 07 Jun 2018 22:26:26 -0400</pubDate>
+            <itunes:subtitle>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</itunes:subtitle>
+            <itunes:summary>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</itunes:summary>
+            <itunes:duration>01:08:30</itunes:duration>
+            <itunes:keywords>Tyler Dixon, Music, The Best Ideas, Podcast, Joey Steshyn, Taylor Shru,</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep. 2 Community - (ft. Kenny Armstrong)</title>
+            <description>Kenny is an aspiring twitch streamer who sees the community he is building as the end to his efforts. Taylor and Kenny explore how the idea of community is situated in the 2018 psyche.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI2.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI2.mp3" length="005923" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">6E5DAA0A-7E62-43D9-8CAB-40D6C6DE95E7-78716-00012E3679FA0434-FFA</guid>
+            <pubDate>Fri, 01 Jun 2018 18:30:55 -0400</pubDate>
+            <itunes:subtitle>Kenny is an aspiring twitch streamer who sees the community he is building as the end to his efforts. Taylor and Kenny explore how the idea of community is situated in the 2018 psyche.</itunes:subtitle>
+            <itunes:summary>Kenny is an aspiring twitch streamer who sees the community he is building as the end to his efforts. Taylor and Kenny explore how the idea of community is situated in the 2018 psyche.</itunes:summary>
+            <itunes:duration>59:23</itunes:duration>
+            <itunes:keywords>Taylor Shrum, The Best Ideas, Best Ideas, Kenny Armstrong, theguykennygames</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 1. Initiative - (ft. Matthew Farina)</title>
+            <description>Initiative is one of the best ideas and it’s behind all of humanity's greatest innovations.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI1.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI1.mp3" length="004343" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">9DCB49F7-77A7-4298-86FD-61C683CEFB24-49183-0000ABF04C358DC6-FFA</guid>
+            <pubDate>Sun, 27 May 2018 15:00:51 -0400</pubDate>
+            <itunes:subtitle>Initiative is one of the best ideas and it’s behind all of humanity's greatest innovations.</itunes:subtitle>
+            <itunes:summary>Initiative is one of the best ideas and it’s behind all of humanity's greatest innovations.</itunes:summary>
+            <itunes:duration>43:43</itunes:duration>
+            <itunes:keywords>Initiative, The Best Ideas Podcast, Taylor Shrum, Tess Media, Taylor, Matthew Farina, Matt Farina, Innovations, Best Ideas</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>

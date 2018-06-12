@@ -1,0 +1,6083 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,700');
+
+
+.bp8-indexdesktop {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp8-indexdesktop .bp8-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-footer .bp8-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-footer .bp8-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 910px;
+}
+.bp8-indexdesktop .bp8-footer .bp8-social .bp8-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-footer .bp8-social .bp8-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp8-indexdesktop .bp8-footer .bp8-social .bp8-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp8-indexdesktop .bp8-footer .bp8-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp8-indexdesktop .bp8-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 782px;
+  height              : 201px;
+  width               : 1055px;
+  position            : absolute;
+  margin              : 0;
+  left                : -9px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1024px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 796px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-contact:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-bottom .bp8-contact .bp8-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-contact .bp8-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 594px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-careers:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-bottom .bp8-careers .bp8-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-careers .bp8-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 392px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-bottom .bp8-advertisers .bp8-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-advertisers .bp8-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-bottom .bp8-podcasts .bp8-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-podcasts .bp8-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-about:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-bottom .bp8-about .bp8-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-bottom .bp8-about .bp8-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp8-indexdesktop .bp8-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 569px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 569px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 420px;
+  height              : 160px;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 107px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-media:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-leftside .bp8-textblock .bp8-creators:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-leftside .bp8-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 202px;
+  height              : 212px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+}
+.bp8-indexdesktop .bp8-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-navbar .bp8-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 400px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-navbar .bp8-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-navbar .bp8-blog:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-navbar .bp8-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 237px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-navbar .bp8-media1:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-navbar .bp8-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-navbar .bp8-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-navbar .bp8-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-navbar .bp8-creators1:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 455px;
+  position            : absolute;
+  margin              : 0;
+  left                : 569px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 455px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 455px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 167px;
+  height              : 448px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 448px;
+  width               : 281px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 55px;
+  height              : 369px;
+  width               : 249px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  border-radius       : 2px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 316px;
+  height              : 69px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-button .bp8-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-button .bp8-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 108px;
+  height              : auto;
+  width               : 185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 74px;
+  height              : auto;
+  width               : 174px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp8-indexdesktop .bp8-rightside .bp8-component .bp8-firstcard .bp8-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : 114px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp5-indexmobileportrait {
+  width               : 100%;
+  min-width           : 320px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp5-indexmobileportrait .bp5-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-footer .bp5-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-footer .bp5-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 220px;
+}
+.bp5-indexmobileportrait .bp5-footer .bp5-social .bp5-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-footer .bp5-social .bp5-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp5-indexmobileportrait .bp5-footer .bp5-social .bp5-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp5-indexmobileportrait .bp5-footer .bp5-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 11.0px;
+}
+.bp5-indexmobileportrait .bp5-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 826px;
+  height              : 179px;
+  width               : 361px;
+  position            : absolute;
+  margin              : 0;
+  left                : -15px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 21px;
+  height              : 136px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 58px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-contact:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-contact .bp5-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-contact .bp5-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 58px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 57px;
+  height              : 122px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-careers:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-careers .bp5-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 122px;
+  width               : 164px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-careers .bp5-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-advertisers .bp5-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-advertisers .bp5-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-podcasts .bp5-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-podcasts .bp5-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : auto;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 99px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-about:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-about .bp5-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 99px;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-bottom .bp5-about .bp5-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 405px;
+  height              : 442px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 442px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 442px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : 372px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 372px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 46px;
+  height              : 306px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  border-radius       : 2px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 260px;
+  height              : 60px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-button .bp5-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-button .bp5-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 92px;
+  height              : auto;
+  width               : 153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-rightside .bp5-component .bp5-firstcard .bp5-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp5-indexmobileportrait .bp5-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 253px;
+  height              : 105px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 70px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-media:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-textblock .bp5-creators:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-leftside .bp5-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 79px;
+  height              : 157px;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+}
+.bp5-indexmobileportrait .bp5-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 244px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-blog:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-media1:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp5-indexmobileportrait .bp5-navbar .bp5-creators1:hover {
+  transform           : scale(1.1);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp4-indextabletportrait {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 1689px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp4-indextabletportrait .bp4-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-footer .bp4-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-footer .bp4-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 650px;
+}
+.bp4-indextabletportrait .bp4-footer .bp4-social .bp4-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-footer .bp4-social .bp4-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp4-indextabletportrait .bp4-footer .bp4-social .bp4-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp4-indextabletportrait .bp4-footer .bp4-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp4-indextabletportrait .bp4-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1447px;
+  height              : 201px;
+  width               : 769px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 568px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-contact:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-contact .bp4-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-contact .bp4-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 426px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-careers:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-careers .bp4-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-careers .bp4-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-advertisers .bp4-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-advertisers .bp4-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 68px;
+  height              : auto;
+  width               : 107px;
+  position            : absolute;
+  margin              : 0;
+  left                : 47px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 142px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-podcasts .bp4-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 161px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-podcasts .bp4-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 57px;
+  height              : auto;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 32px;
+  height              : 137px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-about:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-about .bp4-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 137px;
+  width               : 177px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-bottom .bp4-about .bp4-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 56px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp4-indextabletportrait .bp4-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 782px;
+  height              : 665px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 665px;
+  width               : 768px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 665px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 85px;
+  height              : 494px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 229px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 494px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 60px;
+  height              : 408px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 2px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 347px;
+  height              : 73px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-button .bp4-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-button .bp4-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 116px;
+  height              : auto;
+  width               : 204px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 82px;
+  height              : auto;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-rightside .bp4-component .bp4-firstcard .bp4-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 17px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+.bp4-indextabletportrait .bp4-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 420px;
+  height              : 160px;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 175px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 107px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-media:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-textblock .bp4-creators:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-leftside .bp4-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 202px;
+  height              : 212px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 224px;
+}
+.bp4-indextabletportrait .bp4-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 768px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-blog:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 237px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-media1:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp4-indextabletportrait .bp4-navbar .bp4-creators1:hover {
+  transform           : scale(1.1);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp7-indexiphone {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp7-indexiphone .bp7-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 983px;
+  height              : 41px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-footer .bp7-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-footer .bp7-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 280px;
+}
+.bp7-indexiphone .bp7-footer .bp7-social .bp7-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-footer .bp7-social .bp7-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp7-indexiphone .bp7-footer .bp7-social .bp7-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp7-indexiphone .bp7-footer .bp7-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 11.0px;
+}
+.bp7-indexiphone .bp7-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 822px;
+  height              : 187px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 25px;
+  height              : 136px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 61px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 163px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-indexiphone .bp7-bottom .bp7-contact:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-bottom .bp7-contact .bp7-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-contact .bp7-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 60px;
+  height              : 126px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-indexiphone .bp7-bottom .bp7-careers:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-bottom .bp7-careers .bp7-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-careers .bp7-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 212px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-indexiphone .bp7-bottom .bp7-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-bottom .bp7-advertisers .bp7-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-advertisers .bp7-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-indexiphone .bp7-bottom .bp7-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-bottom .bp7-podcasts .bp7-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-podcasts .bp7-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 70px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 102px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-indexiphone .bp7-bottom .bp7-about:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-bottom .bp7-about .bp7-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 102px;
+  width               : 151px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-bottom .bp7-about .bp7-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 40px;
+  height              : auto;
+  width               : 49px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 405px;
+  height              : 442px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 442px;
+  width               : 375px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 442px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : 372px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 372px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 46px;
+  height              : 306px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  border-radius       : 2px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 260px;
+  height              : 60px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-button .bp7-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-button .bp7-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 92px;
+  height              : auto;
+  width               : 153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-rightside .bp7-component .bp7-firstcard .bp7-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp7-indexiphone .bp7-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 248px;
+  height              : 105px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 70px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-media:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-leftside .bp7-textblock .bp7-creators:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-leftside .bp7-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 74px;
+  height              : 157px;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 70px;
+}
+.bp7-indexiphone .bp7-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-navbar .bp7-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp7-indexiphone .bp7-navbar .bp7-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-navbar .bp7-blog:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-navbar .bp7-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 219px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-navbar .bp7-media1:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-navbar .bp7-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 144px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-navbar .bp7-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp7-indexiphone .bp7-navbar .bp7-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp7-indexiphone .bp7-navbar .bp7-creators1:hover {
+  transform           : scale(1.1);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp6-indexiphoneplus {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp6-indexiphoneplus .bp6-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 983px;
+  height              : 41px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-footer .bp6-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-footer .bp6-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 320px;
+}
+.bp6-indexiphoneplus .bp6-footer .bp6-social .bp6-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 16px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-footer .bp6-social .bp6-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+}
+.bp6-indexiphoneplus .bp6-footer .bp6-social .bp6-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 64px;
+}
+.bp6-indexiphoneplus .bp6-footer .bp6-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 9.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 11.0px;
+}
+.bp6-indexiphoneplus .bp6-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 822px;
+  height              : 187px;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 25px;
+  height              : 136px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 61px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 183px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-contact:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-contact .bp6-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-contact .bp6-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 59px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 60px;
+  height              : 126px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-careers:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-careers .bp6-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 181px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-careers .bp6-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 238px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-advertisers .bp6-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-advertisers .bp6-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 53px;
+  height              : auto;
+  width               : 83px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-podcasts .bp6-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 126px;
+  width               : 182px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-podcasts .bp6-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 44px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 52px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 102px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-about:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-about .bp6-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 102px;
+  width               : 162px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-bottom .bp6-about .bp6-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 48px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 405px;
+  height              : 442px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 442px;
+  width               : 414px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 442px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 35px;
+  height              : 372px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 372px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 46px;
+  height              : 306px;
+  width               : 207px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  border-radius       : 2px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 260px;
+  height              : 60px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-button .bp6-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 146px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-button .bp6-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 92px;
+  height              : auto;
+  width               : 153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 15.0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-rightside .bp6-component .bp6-firstcard .bp6-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp6-indexiphoneplus .bp6-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 406px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 238px;
+  height              : 105px;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 84px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 247px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 70px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 35px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 173px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-media:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 90px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-textblock .bp6-creators:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-leftside .bp6-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 63px;
+  height              : 157px;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+}
+.bp6-indexiphoneplus .bp6-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 303px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-blog:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 242px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-media1:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 27px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 75px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.bp6-indexiphoneplus .bp6-navbar .bp6-creators1:hover {
+  transform           : scale(1.1);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp2-indexhdlarge {
+  width               : 100%;
+  min-width           : 2375px;
+  height              : 100vh;
+  min-height          : 1689px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-indexhdlarge .bp2-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 68px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+}
+.bp2-indexhdlarge .bp2-footer .bp2-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 2375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-footer .bp2-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : 35px;
+  width               : 158px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2193px;
+}
+.bp2-indexhdlarge .bp2-footer .bp2-social .bp2-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 3px;
+  height              : 31px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-footer .bp2-social .bp2-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 34px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 62px;
+}
+.bp2-indexhdlarge .bp2-footer .bp2-social .bp2-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 35px;
+  width               : 40px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+}
+.bp2-indexhdlarge .bp2-footer .bp2-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 285px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp2-indexhdlarge .bp2-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 1288px;
+  height              : 331px;
+  width               : 2373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 331px;
+  width               : 2373px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1918px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-contact:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-contact .bp2-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-contact .bp2-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 115px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1458px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-careers:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-careers .bp2-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-careers .bp2-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 145px;
+  position            : absolute;
+  margin              : 0;
+  left                : 116px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 998px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-advertisers .bp2-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-advertisers .bp2-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 80px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 42px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 538px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-podcasts .bp2-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 247px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-podcasts .bp2-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 98px;
+  height              : auto;
+  width               : 251px;
+  position            : absolute;
+  margin              : 0;
+  left                : 63px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 54px;
+  height              : 224px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 58px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-about:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-about .bp2-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 224px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-bottom .bp2-about .bp2-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 86px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 1288px;
+  width               : 1188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1288px;
+  width               : 1188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 680px;
+  height              : 313px;
+  width               : 784px;
+  position            : absolute;
+  margin              : 0;
+  left                : 203px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 783px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 48.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 58.0px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 222px;
+  height              : 6px;
+  width               : 331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 226px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : 168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 332px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 537px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-media:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 283px;
+  height              : auto;
+  width               : 122px;
+  position            : absolute;
+  margin              : 0;
+  left                : 156px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-textblock .bp2-creators:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-leftside .bp2-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 296px;
+  height              : 395px;
+  width               : 596px;
+  position            : absolute;
+  margin              : 0;
+  left                : 294px;
+}
+.bp2-indexhdlarge .bp2-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 387px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-blog:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 293px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-media1:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 158px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-navbar .bp2-creators1:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 1288px;
+  width               : 1188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1188px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 1288px;
+  width               : 1188px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 1288px;
+  width               : 1188px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 237px;
+  height              : 815px;
+  width               : 513px;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 815px;
+  width               : 513px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 100px;
+  height              : 672px;
+  width               : 456px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  border-radius       : 2px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 131px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 53px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 581px;
+  height              : 110px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-button .bp2-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : -1px;
+  height              : 110px;
+  width               : 301px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-button .bp2-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 29px;
+  height              : auto;
+  width               : 149px;
+  position            : absolute;
+  margin              : 0;
+  left                : 76px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 337px;
+  position            : absolute;
+  margin              : 0;
+  left                : 54px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp2-indexhdlarge .bp2-rightside .bp2-component .bp2-firstcard .bp2-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 33px;
+  height              : auto;
+  width               : 221px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 44.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp3-indexmonitor {
+  width               : 100%;
+  min-width           : 1920px;
+  height              : 100vh;
+  min-height          : 1080px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp3-indexmonitor .bp3-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-footer .bp3-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-footer .bp3-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 10px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1797px;
+}
+.bp3-indexmonitor .bp3-footer .bp3-social .bp3-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-footer .bp3-social .bp3-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp3-indexmonitor .bp3-footer .bp3-social .bp3-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp3-indexmonitor .bp3-footer .bp3-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp3-indexmonitor .bp3-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 838px;
+  height              : 201px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1920px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1579px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-contact:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-bottom .bp3-contact .bp3-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-contact .bp3-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 113px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1195px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-careers:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-bottom .bp3-careers .bp3-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-careers .bp3-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 109px;
+  position            : absolute;
+  margin              : 0;
+  left                : 110px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 810px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-bottom .bp3-advertisers .bp3-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-advertisers .bp3-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 147px;
+  position            : absolute;
+  margin              : 0;
+  left                : 91px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 425px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-bottom .bp3-podcasts .bp3-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 328px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-podcasts .bp3-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 175px;
+  position            : absolute;
+  margin              : 0;
+  left                : 77px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-about:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-bottom .bp3-about .bp3-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-bottom .bp3-about .bp3-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 61px;
+  height              : auto;
+  width               : 88px;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.bp3-indexmonitor .bp3-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 842px;
+  width               : 963px;
+  position            : absolute;
+  margin              : 0;
+  left                : -3px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 842px;
+  width               : 963px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 450px;
+  height              : 160px;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 272px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 107px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-media:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-leftside .bp3-textblock .bp3-creators:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-leftside .bp3-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 232px;
+  height              : 212px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 321px;
+}
+.bp3-indexmonitor .bp3-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-navbar .bp3-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-navbar .bp3-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-navbar .bp3-blog:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-navbar .bp3-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 237px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-navbar .bp3-media1:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-navbar .bp3-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-navbar .bp3-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-navbar .bp3-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-navbar .bp3-creators1:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 840px;
+  width               : 961px;
+  position            : absolute;
+  margin              : 0;
+  left                : 960px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 840px;
+  width               : 961px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 840px;
+  width               : 961px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 173px;
+  height              : 494px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 326px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 494px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 61px;
+  height              : 407px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 2px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 361px;
+  height              : 73px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-button .bp3-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-button .bp3-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 127px;
+  height              : auto;
+  width               : 204px;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 23.0px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 84px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 32px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp3-indexmonitor .bp3-rightside .bp3-component .bp3-firstcard .bp3-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.bp1-index {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1024px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-index .bp1-footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  bottom              : 0px;
+  height              : 41px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-footer .bp1-rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-footer .bp1-social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1330px;
+}
+.bp1-index .bp1-footer .bp1-social .bp1-fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-footer .bp1-social .bp1-fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.bp1-index .bp1-footer .bp1-social .bp1-fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.bp1-index .bp1-footer .bp1-a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.bp1-index .bp1-bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 782px;
+  height              : 201px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-contact {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1149px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-bottom .bp1-contact:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-bottom .bp1-contact .bp1-card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-contact .bp1-contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-bottom .bp1-careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 870px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-bottom .bp1-careers:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-bottom .bp1-careers .bp1-card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-careers .bp1-careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-bottom .bp1-advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 591px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-bottom .bp1-advertisers:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-bottom .bp1-advertisers .bp1-card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-advertisers .bp1-advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-bottom .bp1-podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-bottom .bp1-podcasts:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-bottom .bp1-podcasts .bp1-card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-podcasts .bp1-ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-bottom .bp1-about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-bottom .bp1-about:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-bottom .bp1-about .bp1-card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-bottom .bp1-about .bp1-about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.bp1-index .bp1-leftside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-leftside .bp1-rectangle6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-leftside .bp1-textblock {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 420px;
+  height              : 160px;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 150px;
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-freeandeasypodcas {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 419px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 29.0px;
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-line {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 107px;
+  height              : 3px;
+  width               : 178px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 177px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-listeners:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 287px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-media:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 138px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 74px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(209, 85, 100, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-leftside .bp1-textblock .bp1-creators:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-leftside .bp1-logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 202px;
+  height              : 212px;
+  width               : 319px;
+  position            : absolute;
+  margin              : 0;
+  left                : 199px;
+}
+.bp1-index .bp1-navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-navbar .bp1-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 71px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-navbar .bp1-blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-navbar .bp1-blog:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-navbar .bp1-media1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 237px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-navbar .bp1-media1:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-navbar .bp1-listeners1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-navbar .bp1-listeners1:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-navbar .bp1-creators1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-navbar .bp1-creators1:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-rightside {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 720px;
+}
+.bp1-index .bp1-rightside .bp1-component {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 720px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-back {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 782px;
+  width               : 720px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 144px;
+  height              : 494px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 205px;
+  transition          : all 0.2s ease-in-out;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard:hover {
+  transform           : scale(1.1);
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-card5 {
+  background-color    : rgba(255, 255, 255, 0.99);
+  top                 : 0px;
+  height              : 494px;
+  width               : 310px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 2px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-rectangle3 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 61px;
+  height              : 407px;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  border-radius       : 2px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-button {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 349px;
+  height              : 74px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 61px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-button .bp1-rectangle4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 189px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-button .bp1-signup {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 55px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-tessisopenforbet {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 117px;
+  height              : auto;
+  width               : 204px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-callingallpodu2019ers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 83px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.bp1-index .bp1-rightside .bp1-component .bp1-firstcard .bp1-openbeta {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 18px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : center;
+  line-height         : 24.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@media screen and (max-width: 374px) {
+  .bp5-indexmobileportrait {
+    display             : block;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 375px) and (max-width: 413px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : block;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 414px) and (max-width: 767px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : block;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : block;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1439px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : block;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1440px) and (max-width: 1919px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : block;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 1920px) and (max-width: 2374px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : block;
+  }
+  .bp2-indexhdlarge {
+    display             : none;
+  }
+}
+@media screen and (min-width: 2375px) {
+  .bp5-indexmobileportrait {
+    display             : none;
+  }
+  .bp7-indexiphone {
+    display             : none;
+  }
+  .bp6-indexiphoneplus {
+    display             : none;
+  }
+  .bp4-indextabletportrait {
+    display             : none;
+  }
+  .bp8-indexdesktop {
+    display             : none;
+  }
+  .bp1-index {
+    display             : none;
+  }
+  .bp3-indexmonitor {
+    display             : none;
+  }
+  .bp2-indexhdlarge {
+    display             : block;
+  }
+}

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>Green Light Sports Podcast</title>
+        <description>Green Light Sports talk offers inside looks at all things sports, offers different perspectives on the hottest currents events and sports and aims to entertain whilst focusing on all your favorite facets of the game.</description>
+        <link>https://tess.fm/Green_Light_Sports_Podcast.xml</link>
+        <copyright>2018 Tess Technologies</copyright>
+        <language>en</language>
+        <lastBuildDate>Sun, 10 Jun 2018 18:17:18 -0400</lastBuildDate>
+        <pubDate>Sun, 10 Jun 2018 18:16:54 -0400</pubDate>
+        <generator>FeedForAll Mac v2.1 (2.1.0.1) unlicensed version; http://www.FeedForAll.com/</generator>
+        <itunes:subtitle>Green Light Sports talk offers inside looks at all things sports, offers different perspectives on the hottest currents events and sports and aims to entertain whilst focusing on all your favorite facets of the game</itunes:subtitle>
+        <itunes:summary>Green Light Sports talk offers inside looks at all things sports, offers different perspectives on the hottest currents events and sports and aims to entertain whilst focusing on all your favorite facets of the game</itunes:summary>
+        <itunes:category text="Sports &amp; Recreation"/>
+        <itunes:category text="Sports &amp; Recreation">
+            <itunes:category text="College &amp; High School"/>
+        </itunes:category>
+        <itunes:category text="Sports &amp; Recreation">
+            <itunes:category text="Professional"/>
+        </itunes:category>
+        <itunes:keywords>Green Light Sports, The Green Light Sports Podcast, Sports Podcast, Jack Daly, Tess, Tess Media, Green Light, Host Jack Daly</itunes:keywords>
+        <itunes:author>Tess Media</itunes:author>
+        <itunes:owner>
+            <itunes:email>team@discovertess.com</itunes:email>
+            <itunes:name>Tess Media</itunes:name>
+        </itunes:owner>
+        <itunes:image href="https://s3.us-east-2.amazonaws.com/tessmedia/greenlightsports/Green+Light+Sports+PodcastFINAL.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <url>https://s3.us-east-2.amazonaws.com/tessmedia/greenlightsports/Green+Light+Sports+PodcastFINAL.jpg</url>
+            <title>Green Light Sports Podcast</title>
+            <link>https://tess.fm/Green_Light_Sports_Podcast.xml</link>
+            <description></description>
+            <width>3000</width>
+            <height>3000</height>
+        </image>
+        <item>
+            <title>Episode 1: NBA free agency will be the most exciting one in years, World Cup preview, and The crazy shape of the MLB right now.</title>
+            <description>NBA free agency will be the most exciting one in years, World Cup preview, and The crazy shape of the MLB right now.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/greenlightsports/Ep1.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/greenlightsports/Ep1.mp3" length="003520" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">04909015-9F81-4DF5-9E24-720D02CB3918-38162-0002212844DD3E10-FFA</guid>
+            <pubDate>Sun, 10 Jun 2018 18:16:54 -0400</pubDate>
+            <itunes:subtitle>NBA free agency will be the most exciting one in years, World Cup preview, and The crazy shape of the MLB right now.</itunes:subtitle>
+            <itunes:summary>NBA free agency will be the most exciting one in years, World Cup preview, and The crazy shape of the MLB right now.</itunes:summary>
+            <itunes:duration>00:35:20</itunes:duration>
+            <itunes:keywords>NBA, World Cup Preview, World Cup, MLB, Sports, Green Light Sports Podcast, Green Light Sports, Tess, Tess Media</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>

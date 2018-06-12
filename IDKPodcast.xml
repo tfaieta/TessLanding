@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>IDK Podcast</title>
+        <description>The IDK Podcast, a podcast where four friends bring up topics to each other without the rest of them knowing it. The topics can be anything and we discuss it with no filter and to the best of our ability. IDK Podcast is a Tess Media original podcast.</description>
+        <link>https://tess.fm/IDKPodcast.xml</link>
+        <copyright>2018 Tess Technologies LLC.</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <lastBuildDate>Thu, 07 Jun 2018 22:32:20 -0400</lastBuildDate>
+        <pubDate>Thu, 07 Jun 2018 22:31:13 -0400</pubDate>
+        <itunes:subtitle>Four friends, hard topics, quick responses.</itunes:subtitle>
+        <itunes:summary>There is something about a podcast studio that can make four friends feel the need to record a conversation about the things we want to talk about with each other. IDK is just that, a podcast where four friends dive deep into their thoughts and opinions about their favorite and least favorite topics, the product is an hour of laughably intriguing podcasting?
+
+IDK Podcast is a Tess Media Original Podcast. </itunes:summary>
+        <itunes:category text="Comedy"/>
+        <itunes:category text="Technology">
+            <itunes:category text="Podcasting"/>
+        </itunes:category>
+        <itunes:category text="Society &amp; Culture"/>
+        <itunes:keywords>Tess Media, IDK, Funny, Happy, Intriguing, The IDK Podcast, IDK Podcast</itunes:keywords>
+        <itunes:author>Tess Media</itunes:author>
+        <itunes:owner>
+            <itunes:email>team@discovertess.com</itunes:email>
+            <itunes:name>Tess Technologies LLC</itunes:name>
+        </itunes:owner>
+        <itunes:image href="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <url>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK.jpg</url>
+            <title>IDK Podcast</title>
+            <link>https://tess.fm/IDKPodcast.xml</link>
+            <description></description>
+            <width>3000</width>
+            <height>3000</height>
+        </image>
+        <item>
+            <title>Episode 2: Moving Away From Home, Digital Renaissance, Is Gaming Bad, and Is College Worth It?</title>
+            <description>Yep, we're back! This week we talk about our experience moving out, the digital renaissance we're living in, ask ourselves if gaming is bad, and if college should be somewhere that everyone should go to. </description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%232.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%232.mp3" length="005937" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">A15763AE-0BE7-45B5-817E-6B01AF1C0CF1-27562-0001F4E5EDA77896-FFA</guid>
+            <pubDate>Thu, 07 Jun 2018 22:32:18 -0400</pubDate>
+            <itunes:subtitle>Yep, we're back! This week we talk about our experience moving out, the digital renaissance we're living in, ask ourselves if gaming is bad, and if college should be somewhere that everyone should go to.</itunes:subtitle>
+            <itunes:summary>Yep, we're back! This week we talk about our experience moving out, the digital renaissance we're living in, ask ourselves if gaming is bad, and if college should be somewhere that everyone should go to. </itunes:summary>
+            <itunes:duration>00:59:37</itunes:duration>
+            <itunes:keywords>Tim Dulak, Matthew Baez, Tony Faieta, IDK, The IDK Podcast, IDK Podcast, Tess Media, Tim Dulak, Nick Ruspantini, Matthew Baez</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Episode 1: Materialism, Google Homes Making Us Lazy &amp; Tinder</title>
+            <description>Tony talks to everyone about materialism to show Tim that he may be looking for happiness in the wrong way. Are smart home devices making us smarter or just lazier? Finally, Tinder, good for everyone or bad?</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%231.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%231.mp3" length="011352" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">D2980760-36FA-4CB7-BEBB-6DA9C5671462-32454-0000670512A8ECD9-FFA</guid>
+            <pubDate>Wed, 23 May 2018 19:56:19 -0400</pubDate>
+            <itunes:subtitle>Episode 1: Materialism, Google Homes Making Us Lazy &amp; Tinder</itunes:subtitle>
+            <itunes:summary>Tony talks to everyone about materialism to show Tim that he may be looking for happiness in the wrong way. Are smart home devices making us smarter or just lazier? Finally, Tinder, good for everyone or bad?</itunes:summary>
+            <itunes:duration>1:13:52</itunes:duration>
+            <itunes:keywords>Tess Media, Tess, Tony Faieta, Tim Dulak, IDK Podcast, IDK, Funny, Intriguing, Nick Ruspantini, Matthew Baez</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>
