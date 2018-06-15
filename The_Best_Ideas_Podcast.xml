@@ -7,8 +7,8 @@
         <copyright>2018 Tess Technologies</copyright>
         <docs>http://blogs.law.harvard.edu/tech/rss</docs>
         <language>en</language>
-        <lastBuildDate>Thu, 07 Jun 2018 22:26:30 -0400</lastBuildDate>
-        <pubDate>Thu, 07 Jun 2018 22:24:28 -0400</pubDate>
+        <lastBuildDate>Fri, 15 Jun 2018 10:44:06 -0400</lastBuildDate>
+        <pubDate>Fri, 15 Jun 2018 10:43:03 -0400</pubDate>
         <itunes:subtitle>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:subtitle>
         <itunes:summary>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:summary>
         <itunes:category text="Society &amp; Culture"/>
@@ -35,7 +35,22 @@
             <height>3000</height>
         </image>
         <item>
-            <title>Ep. 3 Music - (ft. Tyler Dixon and Joey Steshyn)</title>
+            <title>Ep 4. Dance - (ft. Grace Parent)</title>
+            <description>Taylor discusses dance with a successful local dancer named Grace Parent.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI4.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI4.mp3" length="005744" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-FFA</guid>
+            <pubDate>Fri, 15 Jun 2018 10:43:59 -0400</pubDate>
+            <itunes:subtitle>Taylor discusses dance with a successful local dancer named Grace Parent.</itunes:subtitle>
+            <itunes:summary>Taylor discusses dance with a successful local dancer named Grace Parent.</itunes:summary>
+            <itunes:duration>00:57:44</itunes:duration>
+            <itunes:keywords>Tess Media, Grace Parent, Philosphy, Dance, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep. 3 - (ft. Tyler Dixon and Joey Steshyn)</title>
             <description>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</description>
             <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI3.mp3</link>
             <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI3.mp3" length="010830" type="audio/mpeg"  ></enclosure>
@@ -43,7 +58,7 @@
             <pubDate>Thu, 07 Jun 2018 22:26:26 -0400</pubDate>
             <itunes:subtitle>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</itunes:subtitle>
             <itunes:summary>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</itunes:summary>
-            <itunes:duration>01:08:30</itunes:duration>
+            <itunes:duration>1:08:30</itunes:duration>
             <itunes:keywords>Tyler Dixon, Music, The Best Ideas, Podcast, Joey Steshyn, Taylor Shru,</itunes:keywords>
             <itunes:author>Tess Media</itunes:author>
             <itunes:explicit>no</itunes:explicit>
