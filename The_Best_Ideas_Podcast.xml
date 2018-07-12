@@ -34,6 +34,52 @@
             <width>3000</width>
             <height>3000</height>
         </image>
+
+        <item>
+            <title>Ep 7. Independence - (ft. William Turner)</title>
+            <description>Taylor is joined by an old friend William Turner (aka @thewynd) as they discuss the intricacies of Independence.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI7.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI7.mp3" length="012349" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-BIP7</guid>
+            <pubDate>Fri, 6th Jul 2018 01:28:59 -0400</pubDate>
+            <itunes:subtitle>Taylor is joined by an old friend William Turner (aka @thewynd) as they discuss the intricacies of Independence.</itunes:subtitle>
+            <itunes:summary>Taylor is joined by an old friend William Turner (aka @thewynd) as they discuss the intricacies of Independence.</itunes:summary>
+            <itunes:duration>01:23:49</itunes:duration>
+            <itunes:keywords>Tess Media, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 6. Mindset - (ft. Matthew Farina)</title>
+            <description>Taylor is joined by a good friend Matthew Farina AKA @themaddieice as they discuss the breakdown of potential forms of an individuals mindset.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI6.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI6.mp3" length="005401" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-BIP</guid>
+            <pubDate>Fri, 29 Jun 2018 01:28:59 -0400</pubDate>
+            <itunes:subtitle>Taylor is joined by a good friend Matthew Farina AKA @themaddieice as they discuss the breakdown of potential forms of an individuals mindset.</itunes:subtitle>
+            <itunes:summary>Taylor is joined by a good friend Matthew Farina AKA @themaddieice as they discuss the breakdown of potential forms of an individuals mindset.</itunes:summary>
+            <itunes:duration>00:54:01</itunes:duration>
+            <itunes:keywords>Tess Media, Mindset, Matthew Farina, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 5. Narrative - (ft. Dr. Jaron L. Jones and Brandon Telg)</title>
+            <description>Taylor is joined by two brilliant community builders who love to help folks tell their stories. Listen to Jaron and Brandon's podcast, Self Narrate, anywhere you get your podcasts.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI5.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI5.mp3" length="010415" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-FDB</guid>
+            <pubDate>Fri, 22 Jun 2018 01:28:59 -0400</pubDate>
+            <itunes:subtitle>Taylor is joined by two brilliant community builders who love to help folks tell their stories. Listen to Jaron and Brandon's podcast, Self Narrate, anywhere you get your podcasts.</itunes:subtitle>
+            <itunes:summary>Taylor is joined by two brilliant community builders who love to help folks tell their stories. Listen to Jaron and Brandon's podcast, Self Narrate, anywhere you get your podcasts.</itunes:summary>
+            <itunes:duration>01:04:15</itunes:duration>
+            <itunes:keywords>Tess Media, Self-Narrate, Self Narrate, Jaron Jones, Brandon Telg, Philosphy, Narrative, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <item>
             <title>Ep 4. Dance - (ft. Grace Parent)</title>
             <description>Taylor discusses dance with a successful local dancer named Grace Parent.</description>

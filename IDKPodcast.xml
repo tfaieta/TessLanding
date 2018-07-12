@@ -34,6 +34,37 @@ IDK Podcast is a Tess Media Original Podcast. </itunes:summary>
             <width>3000</width>
             <height>3000</height>
         </image>
+
+        <item>
+            <title>Episode 4: Things You Hate About Yourself and Cringy Moments</title>
+            <description>Long episode, but good episode. We talk about the things we hate about ourselves and some of our cringy moments.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%234.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%234.mp3" length="010003" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">A15763AE-0BE7-45B5-817E-6B01AF1C0CF1-27562-0001F4E5EDA77896-IDK4</guid>
+            <pubDate>Thu, 12 Jul 2018 10:00:00 -0400</pubDate>
+            <itunes:subtitle>Long episode, but good episode. We talk about the things we hate about ourselves and some of our cringy moments.</itunes:subtitle>
+            <itunes:summary>Long episode, but good episode. We talk about the things we hate about ourselves and some of our cringy moments.</itunes:summary>
+            <itunes:duration>01:00:03</itunes:duration>
+            <itunes:keywords>Tim Dulak, Matthew Baez, Tony Faieta, IDK, The IDK Podcast, IDK Podcast, Tess Media, Tim Dulak, Nick Ruspantini, Matthew Baez</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Episode 3: Braces, Social Media, Guilty Pleasures, and Therapy</title>
+            <description>Boom, episode three! We just went on in this one.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%233.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/idkpodcast/IDK+Podcast+%233.mp3" length="011459" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">A15763AE-0BE7-45B5-817E-6B01AF1C0CF1-27562-0001F4E5EDA77896-FDV</guid>
+            <pubDate>Sun, 24 Jun 2018 20:32:18 -0400</pubDate>
+            <itunes:subtitle>Boom, episode three! We just went on in this one.</itunes:subtitle>
+            <itunes:summary>Boom, episode three! We just went on in this one.</itunes:summary>
+            <itunes:duration>01:14:59</itunes:duration>
+            <itunes:keywords>Tim Dulak, Matthew Baez, Tony Faieta, IDK, The IDK Podcast, IDK Podcast, Tess Media, Tim Dulak, Nick Ruspantini, Matthew Baez</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
         <item>
             <title>Episode 2: Moving Away From Home, Digital Renaissance, Is Gaming Bad, and Is College Worth It?</title>
             <description>Yep, we're back! This week we talk about our experience moving out, the digital renaissance we're living in, ask ourselves if gaming is bad, and if college should be somewhere that everyone should go to. </description>
