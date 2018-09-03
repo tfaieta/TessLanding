@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <title>The Best Ideas Podcast</title>
+        <description>Host Taylor Shrum, uses the tool of conversation to analyze ideas that have influenced humans for generations across all cultures.</description>
+        <link>https://tess.fm/The_Best_Ideas_Podcast.xml</link>
+        <copyright>2018 Tess Technologies</copyright>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <language>en</language>
+        <lastBuildDate>Thu, 23 Aug 2018 14:45:47 -0400</lastBuildDate>
+        <pubDate>Thu, 23 Aug 2018 14:24:35 -0400</pubDate>
+        <generator>FeedForAll Mac v2.1 (2.1.0.1); http://www.FeedForAll.com/</generator>
+        <itunes:subtitle>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:subtitle>
+        <itunes:summary>Host Taylor Shrum, uses the tool of conversation with guests to analyze ideas that influence us today and have been valued across time.</itunes:summary>
+        <itunes:category text="Society &amp; Culture"/>
+        <itunes:category text="Society &amp; Culture">
+            <itunes:category text="Philosophy"/>
+        </itunes:category>
+        <itunes:category text="Science &amp; Medicine">
+            <itunes:category text="Social Sciences"/>
+        </itunes:category>
+        <itunes:keywords>Taylor Shrum, Tess Media, The Best Ideas, Best Ideas, Ideas, Philosophy, The Best Ideas Podcast</itunes:keywords>
+        <itunes:author>Tess Media</itunes:author>
+        <itunes:owner>
+            <itunes:email>team@discovertess.com</itunes:email>
+            <itunes:name>Tess Media</itunes:name>
+        </itunes:owner>
+        <itunes:image href="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BestIdeas.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+        <image>
+            <url>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BestIdeas.jpg</url>
+            <title>The Best Ideas Podcast</title>
+            <link>https://tess.fm/The_Best_Ideas_Podcast.xml</link>
+            <description></description>
+            <width>3000</width>
+            <height>3000</height>
+        </image>
+        <item>
+            <title>Ep 14. Incentives - (ft. Paul Lopez)</title>
+            <description>Taylor Shrum is joined by Paul as they describe what incentives means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI14.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI14.mp3" length="005306" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">3E5219B3-BA84-4BF4-AAD9-8BE20A0A6F0E-62794-0000A6715F1090D1-FFA</guid>
+            <pubDate>Thu, 23 Aug 2018 14:45:32 -0400</pubDate>
+            <itunes:subtitle>Taylor Shrum is joined by Paul as they describe what incentives means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Paul as they describe what incentives means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>00:53:06</itunes:duration>
+            <itunes:keywords>anime, Cosplay, Tess Media, action, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 13. Mindset Revisited - (ft. Matthew Farina)</title>
+            <description>Taylor and Matt tear it up in an epic dive into Matt's recent experience in an internship in south Florida </description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/Bl13.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/Bl13.mp3" length="005131" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">A9DEEE43-2FC7-49BC-B270-1495E0B1D219-53100-00002E4E2E2C5F8B-FFA</guid>
+            <pubDate>Fri, 17 Aug 2018 16:51:40 -0400</pubDate>
+            <itunes:subtitle>Download Tess</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Big Matt as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>51:31</itunes:duration>
+            <itunes:keywords>anime, Cosplay, Tess Media, action, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 12. Costuming - (ft. Dom Gold)</title>
+            <description>Taylor Shrum is joined by Dom Gold as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI12.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI12.mp3" length="011245" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">63F67DEF-12DD-444E-B9AC-9FA46AF18E2B-17046-0000A954E9425F80-FFA</guid>
+            <pubDate>Fri, 10 Aug 2018 16:39:28 -0400</pubDate>
+            <itunes:subtitle>Download Tess!</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Dom Gold as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>1:12:45</itunes:duration>
+            <itunes:keywords>anime, Cosplay, Tess Media, action, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 11. Material vs Ideal - (ft. Tyler Dixon)</title>
+            <description>Taylor Shrum is joined by Tyler as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/B%7C11.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/B%7C11.mp3" length="004055" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">B7173CC6-8418-4C43-ABAD-16785B461321-3558-00001929B76EDEF4-FFA</guid>
+            <pubDate>Fri, 03 Aug 2018 00:15:49 -0400</pubDate>
+            <itunes:subtitle>Be yourself yo!</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Tyler as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>40:55</itunes:duration>
+            <itunes:keywords>Tess Media, action, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 10. Entertainment - (ft. Valerie Torres)</title>
+            <description>Taylor Shrum is joined by Valerie as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI10.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI10.mp3" length="004852" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">D814E7C1-3EC6-42D4-9359-E9CF30498089-26113-00019C8354DF4B5F-FFA</guid>
+            <pubDate>Fri, 27 Jul 2018 13:59:27 -0600</pubDate>
+            <itunes:subtitle>What is Entertainment all about?</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Valerie as they describe what Entertainment means to them. Please enjoy the thoughtful discussion and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>48:52</itunes:duration>
+            <itunes:keywords>Tess Media, action, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 9. Action - (ft. Joey Steshyn)</title>
+            <description>Taylor Shrum is joined by Joey as they describe what Action means to them. Please enjoy the thoughtful discussion on patience and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI9.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI9.mp3" length="005932" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">E4DDE1B4-3A08-4070-8C75-84D620372806-5126-000138C865E882FF-FFA</guid>
+            <pubDate>Fri, 20 Jul 2018 16:28:50 -0400</pubDate>
+            <itunes:subtitle>The ideal show</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Joey as they describe what Action means to them. Please enjoy the thoughtful discussion on patience and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>59:32</itunes:duration>
+            <itunes:keywords>Tess Media, action, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 8. Patience - (ft. Jacob Larson)</title>
+            <description>Taylor Shrum is joined by Jacob Larson a local pub owner and community pastor who has been Taylor's friend for years. Please enjoy the thoughtful discussion on patience and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI8.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI8.mp3" length="010744" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">1931F601-8C90-4175-88B4-E6F7B7D26EBD-56971-0000E463D565C4E0-FFA</guid>
+            <pubDate>Sat, 14 Jul 2018 14:46:30 -0400</pubDate>
+            <itunes:subtitle>Patience is a vertue.</itunes:subtitle>
+            <itunes:summary>Taylor Shrum is joined by Jacob Larson a local pub owner and community pastor who has been Taylor's friend for years. Please enjoy the thoughtful discussion on patience and feel free to shout out to Taylor on Twitter @Tshroom to tell him how you feel about this weeks episode.</itunes:summary>
+            <itunes:duration>1:07:44</itunes:duration>
+            <itunes:keywords>Tess Media, Taylor Shrum, Patience, Ideas, fun, philosophy, love, virtue</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:block>yes</itunes:block>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 7. Independence - (ft. William Turner)</title>
+            <description>Taylor is joined by an old friend William Turner (aka @thewynd) as they discuss the intricacies of Independence.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI7.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI7.mp3" length="012349" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-BIP7</guid>
+            <pubDate>Fri, 13 Jul 2018 14:16:03 -0400</pubDate>
+            <itunes:subtitle>Taylor is joined by an old friend William Turner (aka @thewynd) as they discuss the intricacies of Independence.</itunes:subtitle>
+            <itunes:summary>Taylor is joined by an old friend William Turner (aka @thewynd) as they discuss the intricacies of Independence.</itunes:summary>
+            <itunes:duration>1:23:49</itunes:duration>
+            <itunes:keywords>Tess Media, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 6. Mindset - (ft. Matthew Farina)</title>
+            <description>Taylor is joined by a good friend Matthew Farina AKA @themaddieice as they discuss the breakdown of potential forms of an individuals mindset.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI6.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI6.mp3" length="005401" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-BIP</guid>
+            <pubDate>Fri, 29 Jun 2018 01:28:59 -0400</pubDate>
+            <itunes:subtitle>Taylor is joined by a good friend Matthew Farina AKA @themaddieice as they discuss the breakdown of potential forms of an individuals mindset.</itunes:subtitle>
+            <itunes:summary>Taylor is joined by a good friend Matthew Farina AKA @themaddieice as they discuss the breakdown of potential forms of an individuals mindset.</itunes:summary>
+            <itunes:duration>54:01</itunes:duration>
+            <itunes:keywords>Tess Media, Mindset, Matthew Farina, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 5. Narrative - (ft. Dr. Jaron L. Jones and Brandon Telg)</title>
+            <description>Taylor is joined by two brilliant community builders who love to help folks tell their stories. Listen to Jaron and Brandon's podcast, Self Narrate, anywhere you get your podcasts.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI5.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI5.mp3" length="010415" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-FDB</guid>
+            <pubDate>Fri, 22 Jun 2018 01:28:59 -0400</pubDate>
+            <itunes:subtitle>Taylor is joined by two brilliant community builders who love to help folks tell their stories. Listen to Jaron and Brandon's podcast, Self Narrate, anywhere you get your podcasts.</itunes:subtitle>
+            <itunes:summary>Taylor is joined by two brilliant community builders who love to help folks tell their stories. Listen to Jaron and Brandon's podcast, Self Narrate, anywhere you get your podcasts.</itunes:summary>
+            <itunes:duration>1:04:15</itunes:duration>
+            <itunes:keywords>Tess Media, Self-Narrate, Self Narrate, Jaron Jones, Brandon Telg, Philosphy, Narrative, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 4. Dance - (ft. Grace Parent)</title>
+            <description>Taylor discusses dance with a successful local dancer named Grace Parent.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI4.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI4.mp3" length="005744" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">13FA11A7-76D6-4866-8286-1F2C79FC4955-78999-00029A77CD3EE45C-FFA</guid>
+            <pubDate>Fri, 15 Jun 2018 10:43:59 -0400</pubDate>
+            <itunes:subtitle>Taylor discusses dance with a successful local dancer named Grace Parent.</itunes:subtitle>
+            <itunes:summary>Taylor discusses dance with a successful local dancer named Grace Parent.</itunes:summary>
+            <itunes:duration>57:44</itunes:duration>
+            <itunes:keywords>Tess Media, Grace Parent, Philosphy, Dance, Taylor Shrum</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 3. Music - (ft. Tyler Dixon and Joey Steshyn)</title>
+            <description>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI3.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI3.mp3" length="010830" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">D54ECA29-AEED-40AE-BA54-A0BD33846738-27562-0001F4ABFF2F1FCA-FFA</guid>
+            <pubDate>Thu, 14 Jun 2018 16:30:39 -0400</pubDate>
+            <itunes:subtitle>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</itunes:subtitle>
+            <itunes:summary>Tyler and Joey join host, Taylor Shrum, to take a deep dive into the world of music.</itunes:summary>
+            <itunes:duration>1:08:30</itunes:duration>
+            <itunes:keywords>Tyler Dixon, Music, The Best Ideas, Podcast, Joey Steshyn, Taylor Shru,</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 2. Community - (ft. Kenny Armstrong)</title>
+            <description>Kenny is an aspiring twitch streamer who sees the community he is building as the end to his efforts. Taylor and Kenny explore how the idea of community is situated in the 2018 psyche.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI2.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI2.mp3" length="005923" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">6E5DAA0A-7E62-43D9-8CAB-40D6C6DE95E7-78716-00012E3679FA0434-FFA</guid>
+            <pubDate>Wed, 13 Jun 2018 16:30:50 -0400</pubDate>
+            <itunes:subtitle>Kenny is an aspiring twitch streamer who sees the community he is building as the end to his efforts. Taylor and Kenny explore how the idea of community is situated in the 2018 psyche.</itunes:subtitle>
+            <itunes:summary>Kenny is an aspiring twitch streamer who sees the community he is building as the end to his efforts. Taylor and Kenny explore how the idea of community is situated in the 2018 psyche.</itunes:summary>
+            <itunes:duration>59:23</itunes:duration>
+            <itunes:keywords>Taylor Shrum, The Best Ideas, Best Ideas, Kenny Armstrong, theguykennygames</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+        <item>
+            <title>Ep 1. Initiative - (ft. Matthew Farina)</title>
+            <description>Initiative is one of the best ideas and it’s behind all of humanity's greatest innovations.</description>
+            <link>https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI1.mp3</link>
+            <enclosure url="https://s3.us-east-2.amazonaws.com/tessmedia/bestIdeas/BI1.mp3" length="004343" type="audio/mpeg"  ></enclosure>
+            <guid isPermaLink="false">9DCB49F7-77A7-4298-86FD-61C683CEFB24-49183-0000ABF04C358DC6-FFA</guid>
+            <pubDate>Sun, 27 May 2018 15:00:51 -0400</pubDate>
+            <itunes:subtitle>Initiative is one of the best ideas and it’s behind all of humanity's greatest innovations.</itunes:subtitle>
+            <itunes:summary>Initiative is one of the best ideas and it’s behind all of humanity's greatest innovations.</itunes:summary>
+            <itunes:duration>43:43</itunes:duration>
+            <itunes:keywords>Initiative, The Best Ideas Podcast, Taylor Shrum, Tess Media, Taylor, Matthew Farina, Matt Farina, Innovations, Best Ideas</itunes:keywords>
+            <itunes:author>Tess Media</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+        </item>
+
+    </channel>
+</rss>

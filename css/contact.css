@@ -1,0 +1,580 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,700');
+
+
+.contact {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1036px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.contact .footer {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 995px;
+  height              : 41px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .footer .rectangle {
+  background-color    : rgba(229, 243, 243, 1.0);
+  top                 : 0px;
+  height              : 41px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .footer .social {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 21px;
+  width               : 95px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1330px;
+}
+.contact .footer .social .fill1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .footer .social .fill3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+}
+.contact .footer .social .fill70 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 21px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+}
+.contact .footer .a2018tesstechnologi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 15.0px;
+}
+.contact .bottom {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 794px;
+  height              : 201px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .container {
+  background-color    : rgba(247, 251, 252, 1.0);
+  top                 : 0px;
+  height              : 201px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .contact1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1149px;
+  transition          : all 0.2s ease-in-out;
+}
+.contact .bottom .contact1:hover {
+  transform           : scale(1.1);
+}
+.contact .bottom .contact1 .card {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .contact1 .contact2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 89px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.contact .bottom .careers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 870px;
+  transition          : all 0.2s ease-in-out;
+}
+.contact .bottom .careers:hover {
+  transform           : scale(1.1);
+}
+.contact .bottom .careers .card1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .careers .careers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 90px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.contact .bottom .advertisers {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 591px;
+  transition          : all 0.2s ease-in-out;
+}
+.contact .bottom .advertisers:hover {
+  transform           : scale(1.1);
+}
+.contact .bottom .advertisers .card2 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .advertisers .advertisers1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 71px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.contact .bottom .podcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 11px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  transition          : all 0.2s ease-in-out;
+}
+.contact .bottom .podcasts:hover {
+  transform           : scale(1.1);
+}
+.contact .bottom .podcasts .card3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 180px;
+  width               : 259px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .podcasts .ourpodcasts {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 76px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.contact .bottom .about {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transition          : all 0.2s ease-in-out;
+}
+.contact .bottom .about:hover {
+  transform           : scale(1.1);
+}
+.contact .bottom .about .card4 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 156px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .bottom .about .about1 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 86px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.contact .content {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 413px;
+  height              : 381px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .content .bg {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 381px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .content .thedream {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 56px;
+  height              : 244px;
+  width               : 1163px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+}
+.contact .content .thedream .reachouttoteamdi {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 110px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 36.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 44.0px;
+}
+.contact .content .thedream .questions {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 64.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 78.0px;
+}
+.contact .top {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 66px;
+  height              : 347px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .top .container1 {
+  background-color    : rgba(245, 244, 249, 1.0);
+  top                 : 0px;
+  height              : 347px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .top .contact3 {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 414px;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 144.0px;
+  color               : rgba(62, 65, 100, 1.0);
+  text-align          : left;
+  line-height         : 175.0px;
+}
+.contact .navbar {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .navbar .rectangle3 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 65px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+}
+.contact .navbar .blog {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1374px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.contact .navbar .blog:hover {
+  transform           : scale(1.1);
+}
+.contact .navbar .media {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 23px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1297px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.contact .navbar .media:hover {
+  transform           : scale(1.1);
+}
+.contact .navbar .listeners {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.contact .navbar .listeners:hover {
+  transform           : scale(1.1);
+}
+.contact .navbar .logo {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 12px;
+  height              : 44px;
+  width               : 44px;
+  position            : absolute;
+  margin              : 0;
+  left                : 698px;
+  transition          : all 0.2s ease-in-out;
+}
+.contact .navbar .logo:hover {
+  transform           : scale(1.1);
+}
+.contact .navbar .creators {
+  background-color    : rgba(255, 255, 255, 0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transition          : all 0.2s ease-in-out;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(155, 154, 155, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.contact .navbar .creators:hover {
+  transform           : scale(1.1);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
