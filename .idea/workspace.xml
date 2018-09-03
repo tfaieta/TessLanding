@@ -2,9 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ecf9666-b247-406c-8c06-b072ded91953" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-desktop-card 1.png" afterPath="$PROJECT_DIR$/img/about-desktop-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-desktop-card 2.png" afterPath="$PROJECT_DIR$/img/about-desktop-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-desktop-card 4.png" afterPath="$PROJECT_DIR$/img/about-desktop-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-fill-1.png" afterPath="$PROJECT_DIR$/img/about-fill-1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-hd-large-card 3.png" afterPath="$PROJECT_DIR$/img/about-hd-large-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-card 1.png" afterPath="$PROJECT_DIR$/img/about-iphone-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-card 2.png" afterPath="$PROJECT_DIR$/img/about-iphone-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-card 3.png" afterPath="$PROJECT_DIR$/img/about-iphone-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-card 4.png" afterPath="$PROJECT_DIR$/img/about-iphone-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-card.png" afterPath="$PROJECT_DIR$/img/about-iphone-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-plus-card 1.png" afterPath="$PROJECT_DIR$/img/about-iphone-plus-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-plus-card 2.png" afterPath="$PROJECT_DIR$/img/about-iphone-plus-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-plus-card 3.png" afterPath="$PROJECT_DIR$/img/about-iphone-plus-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-iphone-plus-card 4.png" afterPath="$PROJECT_DIR$/img/about-iphone-plus-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-monitor-card 1.png" afterPath="$PROJECT_DIR$/img/about-monitor-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-monitor-card 2.png" afterPath="$PROJECT_DIR$/img/about-monitor-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-monitor-card 3.png" afterPath="$PROJECT_DIR$/img/about-monitor-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-monitor-card 4.png" afterPath="$PROJECT_DIR$/img/about-monitor-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-iphone-bestideas.png" afterPath="$PROJECT_DIR$/img/advertisement-iphone-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-iphone-bog-final.png" afterPath="$PROJECT_DIR$/img/advertisement-iphone-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-iphone-plus-idk.png" afterPath="$PROJECT_DIR$/img/advertisement-iphone-plus-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-mobile-card 1.png" afterPath="$PROJECT_DIR$/img/advertisement-mobile-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-mobile-card 2.png" afterPath="$PROJECT_DIR$/img/advertisement-mobile-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-mobile-card 4.png" afterPath="$PROJECT_DIR$/img/advertisement-mobile-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-mobile-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/advertisement-mobile-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-bestideas.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-bog-final.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-card 1.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-card 2.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-card 3.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-card.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-tablet-idk.png" afterPath="$PROJECT_DIR$/img/advertisement-tablet-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisements-desktop-bestideas.png" afterPath="$PROJECT_DIR$/img/advertisements-desktop-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisements-desktop-bog-final.png" afterPath="$PROJECT_DIR$/img/advertisements-desktop-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisements-desktop-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/advertisements-desktop-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisements-desktop-idk.png" afterPath="$PROJECT_DIR$/img/advertisements-desktop-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-bestideas.png" afterPath="$PROJECT_DIR$/img/advertisers-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-bog-final.png" afterPath="$PROJECT_DIR$/img/advertisers-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-fill-70.png" afterPath="$PROJECT_DIR$/img/advertisers-fill-70.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/advertisers-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-hd-large-card.png" afterPath="$PROJECT_DIR$/img/advertisers-hd-large-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-hd-large-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/advertisers-hd-large-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-hd-large-idk.png" afterPath="$PROJECT_DIR$/img/advertisers-hd-large-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisers-idk.png" afterPath="$PROJECT_DIR$/img/advertisers-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-bestideas 3.png" afterPath="$PROJECT_DIR$/img/bestideas-bestideas 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-bestideas.png" afterPath="$PROJECT_DIR$/img/bestideas-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-shape 1.png" afterPath="$PROJECT_DIR$/img/bestideas-shape 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-shape 7.png" afterPath="$PROJECT_DIR$/img/bestideas-shape 7.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-shape.png" afterPath="$PROJECT_DIR$/img/bestideas-shape.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-xmlid18.png" afterPath="$PROJECT_DIR$/img/bestideas-xmlid18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bestideas-xmlid22.png" afterPath="$PROJECT_DIR$/img/bestideas-xmlid22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bogw-bog-final.png" afterPath="$PROJECT_DIR$/img/bogw-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bogw-shape 2.png" afterPath="$PROJECT_DIR$/img/bogw-shape 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bogw-shape 3.png" afterPath="$PROJECT_DIR$/img/bogw-shape 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bogw-shape 4.png" afterPath="$PROJECT_DIR$/img/bogw-shape 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bogw-shape 5.png" afterPath="$PROJECT_DIR$/img/bogw-shape 5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/bogw-xmlid20.png" afterPath="$PROJECT_DIR$/img/bogw-xmlid20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/careers-fill-3.png" afterPath="$PROJECT_DIR$/img/careers-fill-3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-desktop-line.png" afterPath="$PROJECT_DIR$/img/creator-desktop-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-hd-large-card 1.png" afterPath="$PROJECT_DIR$/img/creator-hd-large-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-hd-large-card 2.png" afterPath="$PROJECT_DIR$/img/creator-hd-large-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-hd-large-card 4.png" afterPath="$PROJECT_DIR$/img/creator-hd-large-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-iphone-line.png" afterPath="$PROJECT_DIR$/img/creator-iphone-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-iphone-plus-line.png" afterPath="$PROJECT_DIR$/img/creator-iphone-plus-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-mobile-card 8.png" afterPath="$PROJECT_DIR$/img/creator-mobile-card 8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-monitor-card 1.png" afterPath="$PROJECT_DIR$/img/creator-monitor-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-monitor-card 2.png" afterPath="$PROJECT_DIR$/img/creator-monitor-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-monitor-card 3.png" afterPath="$PROJECT_DIR$/img/creator-monitor-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-monitor-card 4.png" afterPath="$PROJECT_DIR$/img/creator-monitor-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-monitor-card.png" afterPath="$PROJECT_DIR$/img/creator-monitor-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-monitor-logo 1.png" afterPath="$PROJECT_DIR$/img/creator-monitor-logo 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-tablet-card 9.png" afterPath="$PROJECT_DIR$/img/creator-tablet-card 9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-card 1.png" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-card 2.png" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-card 3.png" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-card 4.png" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-line.png" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-logo.png" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-hd-large-line.png" afterPath="$PROJECT_DIR$/img/creators-hd-large-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/favicon.png" afterPath="$PROJECT_DIR$/img/favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-green-light-sports-podcastfinal 1.png" afterPath="$PROJECT_DIR$/img/gls-green-light-sports-podcastfinal 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/gls-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-logo.png" afterPath="$PROJECT_DIR$/img/gls-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-shape 18.png" afterPath="$PROJECT_DIR$/img/gls-shape 18.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-shape 20.png" afterPath="$PROJECT_DIR$/img/gls-shape 20.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-shape 21.png" afterPath="$PROJECT_DIR$/img/gls-shape 21.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-shape 22.png" afterPath="$PROJECT_DIR$/img/gls-shape 22.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-shape 8.png" afterPath="$PROJECT_DIR$/img/gls-shape 8.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-shape 9.png" afterPath="$PROJECT_DIR$/img/gls-shape 9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/gls-xmlid40.png" afterPath="$PROJECT_DIR$/img/gls-xmlid40.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-card 1.png" afterPath="$PROJECT_DIR$/img/idk-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-card 2.png" afterPath="$PROJECT_DIR$/img/idk-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-idk 1.png" afterPath="$PROJECT_DIR$/img/idk-idk 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-idk 2.png" afterPath="$PROJECT_DIR$/img/idk-idk 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 10.png" afterPath="$PROJECT_DIR$/img/idk-shape 10.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 12.png" afterPath="$PROJECT_DIR$/img/idk-shape 12.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 13.png" afterPath="$PROJECT_DIR$/img/idk-shape 13.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 14.png" afterPath="$PROJECT_DIR$/img/idk-shape 14.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 15.png" afterPath="$PROJECT_DIR$/img/idk-shape 15.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 16.png" afterPath="$PROJECT_DIR$/img/idk-shape 16.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-shape 17.png" afterPath="$PROJECT_DIR$/img/idk-shape 17.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-xmlid42.png" afterPath="$PROJECT_DIR$/img/idk-xmlid42.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/idk-xmlid43.png" afterPath="$PROJECT_DIR$/img/idk-xmlid43.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-back.png" afterPath="$PROJECT_DIR$/img/index-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-desktop-back.png" afterPath="$PROJECT_DIR$/img/index-desktop-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-desktop-rectangle-4.png" afterPath="$PROJECT_DIR$/img/index-desktop-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-hd-large-back.png" afterPath="$PROJECT_DIR$/img/index-hd-large-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-hd-large-card.png" afterPath="$PROJECT_DIR$/img/index-hd-large-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-hd-large-line.png" afterPath="$PROJECT_DIR$/img/index-hd-large-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-hd-large-logo.png" afterPath="$PROJECT_DIR$/img/index-hd-large-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-hd-large-rectangle-4.png" afterPath="$PROJECT_DIR$/img/index-hd-large-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-back.png" afterPath="$PROJECT_DIR$/img/index-iphone-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-card 1.png" afterPath="$PROJECT_DIR$/img/index-iphone-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-card 2.png" afterPath="$PROJECT_DIR$/img/index-iphone-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-card 3.png" afterPath="$PROJECT_DIR$/img/index-iphone-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-card 4.png" afterPath="$PROJECT_DIR$/img/index-iphone-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-card.png" afterPath="$PROJECT_DIR$/img/index-iphone-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-logo.png" afterPath="$PROJECT_DIR$/img/index-iphone-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-back.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-card 1.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-card 2.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-card 3.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-card 4.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-card.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-line.png" afterPath="$PROJECT_DIR$/img/index-iphone-plus-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-back.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-card 1.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-card 2.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-card 3.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-card 4.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-card.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-mobile-portrait-rectangle-4.png" afterPath="$PROJECT_DIR$/img/index-mobile-portrait-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-monitor-back.png" afterPath="$PROJECT_DIR$/img/index-monitor-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-monitor-logo.png" afterPath="$PROJECT_DIR$/img/index-monitor-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-rectangle-4.png" afterPath="$PROJECT_DIR$/img/index-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-back.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-back.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-card 1.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-card 2.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-card 3.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-card 4.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-card.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-tablet-portrait-rectangle-4.png" afterPath="$PROJECT_DIR$/img/index-tablet-portrait-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-card 1.png" afterPath="$PROJECT_DIR$/img/listener-desktop-card 1.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-card 2.png" afterPath="$PROJECT_DIR$/img/listener-desktop-card 2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-card 3.png" afterPath="$PROJECT_DIR$/img/listener-desktop-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-card 4.png" afterPath="$PROJECT_DIR$/img/listener-desktop-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-card.png" afterPath="$PROJECT_DIR$/img/listener-desktop-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-group.png" afterPath="$PROJECT_DIR$/img/listener-desktop-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-desktop-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-desktop-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-hd-large-group.png" afterPath="$PROJECT_DIR$/img/listener-hd-large-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-hd-large-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-hd-large-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-iphone-group.png" afterPath="$PROJECT_DIR$/img/listener-iphone-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-iphone-plus-card.png" afterPath="$PROJECT_DIR$/img/listener-iphone-plus-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-iphone-plus-group.png" afterPath="$PROJECT_DIR$/img/listener-iphone-plus-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-iphone-plus-line.png" afterPath="$PROJECT_DIR$/img/listener-iphone-plus-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-iphone-plus-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-iphone-plus-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-iphone-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-iphone-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-mobile-card.png" afterPath="$PROJECT_DIR$/img/listener-mobile-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-mobile-group.png" afterPath="$PROJECT_DIR$/img/listener-mobile-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-mobile-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-mobile-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-monitor-group.png" afterPath="$PROJECT_DIR$/img/listener-monitor-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-monitor-line.png" afterPath="$PROJECT_DIR$/img/listener-monitor-line.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-monitor-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-monitor-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-tablet-group.png" afterPath="$PROJECT_DIR$/img/listener-tablet-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listener-tablet-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listener-tablet-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listeners-card 3.png" afterPath="$PROJECT_DIR$/img/listeners-card 3.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listeners-card 4.png" afterPath="$PROJECT_DIR$/img/listeners-card 4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listeners-card.png" afterPath="$PROJECT_DIR$/img/listeners-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listeners-group.png" afterPath="$PROJECT_DIR$/img/listeners-group.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/listeners-rectangle-4.png" afterPath="$PROJECT_DIR$/img/listeners-rectangle-4.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-bestideas.png" afterPath="$PROJECT_DIR$/img/media-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-bog-final.png" afterPath="$PROJECT_DIR$/img/media-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-desktop-card.png" afterPath="$PROJECT_DIR$/img/media-desktop-card.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/media-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-hd-large-bestideas.png" afterPath="$PROJECT_DIR$/img/media-hd-large-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-hd-large-bog-final.png" afterPath="$PROJECT_DIR$/img/media-hd-large-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-hd-large-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/media-hd-large-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-hd-large-idk.png" afterPath="$PROJECT_DIR$/img/media-hd-large-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-idk.png" afterPath="$PROJECT_DIR$/img/media-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-iphone-logo.png" afterPath="$PROJECT_DIR$/img/media-iphone-logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-iphone-plus-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/media-iphone-plus-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-mobile-bestideas.png" afterPath="$PROJECT_DIR$/img/media-mobile-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-mobile-bog-final.png" afterPath="$PROJECT_DIR$/img/media-mobile-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-mobile-idk.png" afterPath="$PROJECT_DIR$/img/media-mobile-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-monitor-bestideas.png" afterPath="$PROJECT_DIR$/img/media-monitor-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-monitor-bog-final.png" afterPath="$PROJECT_DIR$/img/media-monitor-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-monitor-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/media-monitor-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-monitor-idk.png" afterPath="$PROJECT_DIR$/img/media-monitor-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-tablet-bestideas.png" afterPath="$PROJECT_DIR$/img/media-tablet-bestideas.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-tablet-bog-final.png" afterPath="$PROJECT_DIR$/img/media-tablet-bog-final.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-tablet-green-light-sports-podcastfinal.png" afterPath="$PROJECT_DIR$/img/media-tablet-green-light-sports-podcastfinal.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/media-tablet-idk.png" afterPath="$PROJECT_DIR$/img/media-tablet-idk.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/playStore.png" afterPath="$PROJECT_DIR$/img/playStore.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/index.css" afterPath="$PROJECT_DIR$/css/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml" afterPath="$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/The_Best_Ideas_Podcast.xml" afterPath="$PROJECT_DIR$/The_Best_Ideas_Podcast.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-hd-large-fill-1.svg" afterPath="$PROJECT_DIR$/img/about-hd-large-fill-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-monitor-fill-1.svg" afterPath="$PROJECT_DIR$/img/about-monitor-fill-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/about-monitor-fill-3.svg" afterPath="$PROJECT_DIR$/img/about-monitor-fill-3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-mobile-fill-1.svg" afterPath="$PROJECT_DIR$/img/advertisement-mobile-fill-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/advertisement-mobile-fill-70.svg" afterPath="$PROJECT_DIR$/img/advertisement-mobile-fill-70.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/appStore.svg" afterPath="$PROJECT_DIR$/img/appStore.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-desktop-fill-1.svg" afterPath="$PROJECT_DIR$/img/creator-desktop-fill-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-desktop-fill-3.svg" afterPath="$PROJECT_DIR$/img/creator-desktop-fill-3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-hd-large-fill-3.svg" afterPath="$PROJECT_DIR$/img/creator-hd-large-fill-3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creator-iphone-plus-fill-3 1.svg" afterPath="$PROJECT_DIR$/img/creator-iphone-plus-fill-3 1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-fill-1.svg" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-fill-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/creators-desktop-hd-fill-3.svg" afterPath="$PROJECT_DIR$/img/creators-desktop-hd-fill-3.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/desktop-fill-70.svg" afterPath="$PROJECT_DIR$/img/desktop-fill-70.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-fill-70.svg" afterPath="$PROJECT_DIR$/img/index-fill-70.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-hd-large-fill-70.svg" afterPath="$PROJECT_DIR$/img/index-hd-large-fill-70.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-fill-70.svg" afterPath="$PROJECT_DIR$/img/index-iphone-fill-70.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-fill-1.svg" afterPath="$PROJECT_DIR$/img/index-iphone-plus-fill-1.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/index-iphone-plus-fill-3.svg" afterPath="$PROJECT_DIR$/img/index-iphone-plus-fill-3.svg" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,36 +231,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="Best_of_Gainesville_Weekly_Podcast.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="530" column="51" lean-forward="true" selection-start-line="530" selection-start-column="51" selection-end-line="530" selection-end-column="51" />
-              <folding>
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#4;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="555">
+              <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/index.css">
+      <file leaf-file-name="The_Best_Ideas_Podcast.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/The_Best_Ideas_Podcast.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="5725" column="26" lean-forward="false" selection-start-line="5725" selection-start-column="26" selection-end-line="5725" selection-end-column="26" />
+            <state relative-caret-position="673">
+              <caret line="149" column="32" lean-forward="false" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -89,11 +286,11 @@
         <option value="$PROJECT_DIR$/idk.html" />
         <option value="$PROJECT_DIR$/bestideas.html" />
         <option value="$PROJECT_DIR$/Best_of_Gainesville_Weekly.xml" />
-        <option value="$PROJECT_DIR$/The_Best_Ideas_Podcast.xml" />
-        <option value="$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml" />
         <option value="$PROJECT_DIR$/IDKPodcast.xml" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/The_Best_Ideas_Podcast.xml" />
+        <option value="$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml" />
       </list>
     </option>
   </component>
@@ -104,8 +301,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -123,8 +320,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -137,36 +332,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TessLanding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TessLanding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TessLanding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TessLanding" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -178,9 +347,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/landingPage" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -313,31 +485,40 @@
       <workItem from="1530907187829" duration="412000" />
       <workItem from="1531339739125" duration="2448000" />
       <workItem from="1531408677372" duration="789000" />
+      <workItem from="1531507919006" duration="284000" />
+      <workItem from="1531868249340" duration="300000" />
+      <workItem from="1531881818033" duration="208000" />
+      <workItem from="1532120004784" duration="824000" />
+      <workItem from="1532362235552" duration="452000" />
+      <workItem from="1532545339580" duration="71000" />
+      <workItem from="1532616362935" duration="442000" />
+      <workItem from="1532618865532" duration="17000" />
+      <workItem from="1532729450822" duration="186000" />
+      <workItem from="1532907263063" duration="35000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28451000" />
+    <option name="totallyTimeSpent" value="31408000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2025417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20063192" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23150685" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24158415" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -352,13 +533,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/firebase.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -612,27 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="58" lean-forward="false" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/The_Best_Ideas_Podcast.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="43" column="29" lean-forward="false" selection-start-line="43" selection-start-column="29" selection-end-line="43" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/IDKPodcast.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" column="45" lean-forward="false" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,7 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -651,32 +807,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="85875">
           <caret line="5725" column="26" lean-forward="false" selection-start-line="5725" selection-start-column="26" selection-end-line="5725" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="530" column="51" lean-forward="true" selection-start-line="530" selection-start-column="51" selection-end-line="530" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#div#4;n#div#0;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#4;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#0;n#div#7;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="8115">
+          <caret line="542" column="22" lean-forward="false" selection-start-line="542" selection-start-column="22" selection-end-line="542" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast .xml" />
+    <entry file="file://$PROJECT_DIR$/Best_of_Gainesville_Weekly_Podcast.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="30" lean-forward="false" selection-start-line="37" selection-start-column="30" selection-end-line="37" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/The_Best_Ideas_Podcast.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="149" column="32" lean-forward="false" selection-start-line="149" selection-start-column="29" selection-end-line="149" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
