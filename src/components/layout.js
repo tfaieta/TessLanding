@@ -20,7 +20,7 @@ class Layout extends React.Component {
     componentDidMount () {
         this.timeoutId = setTimeout(() => {
             this.setState({loading: ''});
-        }, 100);
+        }, 50);
     }
 
     componentWillUnmount () {
@@ -43,7 +43,6 @@ class Layout extends React.Component {
                 <div id="wrapper">
                     <Header onToggleMenu={this.handleToggleMenu} />
                     {children}
-                    <Contact />
                     <Footer />
                 </div>
                 <Menu onToggleMenu={this.handleToggleMenu} />
