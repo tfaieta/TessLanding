@@ -691,12 +691,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-23T02:07:38.403Z",
+      "buildTime": "2018-09-24T00:02:07.390Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "62841a90626a4f6bc98dffc54506afd1",
+        "contentDigest": "76f99479985ed50afc4cc2afed3aaa00",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
