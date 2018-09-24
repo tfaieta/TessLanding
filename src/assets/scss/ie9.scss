@@ -4,112 +4,70 @@
 @import 'libs/skel';
 
 /*
-	Forty by HTML5 UP
+	Stellar by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* Spotlights */
+/* Spotlight */
 
-	.spotlights {
-		> section {
-			&:after {
-				content: '';
-				display: block;
-				clear: both;
-			}
-
-			> .image {
-				float: left;
-			}
-
-			> .content {
-				float: left;
-			}
-		}
-	}
-
-/* Tiles */
-
-	.tiles {
+	.spotlight {
 		&:after {
 			content: '';
 			display: block;
 			clear: both;
 		}
 
-		article {
-			@include padding(8em, 4em);
+		.content {
 			float: left;
-			height: auto;
-			max-height: none;
-			min-height: 0;
+			width: 60%;
+		}
+
+		.image {
+			float: left;
 		}
 	}
 
-/* Header */
+/* Features */
 
-	#header {
-		.logo {
-			position: absolute;
-			top: 0;
-			left: 0;
-		}
-
-		nav {
-			position: absolute;
-			top: 0;
-			right: 0;
-		}
-	}
-
-/* Banner */
-
-	#banner {
-		@include padding(6em, 0, (1em, 0, 0, 0));
-		background-attachment: scroll;
-		height: auto;
-		max-height: none;
-		min-height: 0;
-
-		> .inner {
-			.content {
-				display: block;
-
-				> * {
-					margin-left: 0;
-					margin: 0 0 _size(element-margin) 0;
-				}
-			}
-		}
-
-		&.major {
-			height: auto;
-			max-height: none;
-			min-height: 0;
-		}
-	}
-
-/* Contact */
-
-	#contact {
+	.features {
 		&:after {
 			content: '';
 			display: block;
 			clear: both;
 		}
 
-		> .inner {
-			> * {
-				float: left;
-			}
+		li {
+			float: left;
 		}
 	}
 
-/* Menu */
+/* Statistics */
 
-	#menu {
-		.inner {
-			margin: 0 auto;
+	.statistics {
+		display: inline-block;
+		width: auto;
+
+		&:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+
+		li {
+			float: left;
+			padding: 1.5em 2.5em;
+		}
+	}
+
+/* Footer */
+
+	#footer {
+		> * {
+			float: left;
+		}
+
+		.copyright {
+			clear: both;
 		}
 	}

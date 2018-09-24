@@ -2,13 +2,22 @@
 const preferDefault = m => m && m.default || m
 
 exports.components = {
-  "component---cache-dev-404-page-js": () => import("/Users/TonyFaieta/TessLanding/.cache/dev-404-page.js" /* webpackChunkName: "component---cache-dev-404-page-js" */),
-  "component---src-pages-404-js": () => import("/Users/TonyFaieta/TessLanding/src/pages/404.js" /* webpackChunkName: "component---src-pages-404-js" */),
-  "component---src-pages-elements-js": () => import("/Users/TonyFaieta/TessLanding/src/pages/elements.js" /* webpackChunkName: "component---src-pages-elements-js" */),
-  "component---src-pages-generic-js": () => import("/Users/TonyFaieta/TessLanding/src/pages/generic.js" /* webpackChunkName: "component---src-pages-generic-js" */),
-  "component---src-pages-index-js": () => import("/Users/TonyFaieta/TessLanding/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-landing-js": () => import("/Users/TonyFaieta/TessLanding/src/pages/landing.js" /* webpackChunkName: "component---src-pages-landing-js" */)
+  "component---src-templates-blog-post-js": require("gatsby-module-loader?name=component---src-templates-blog-post-js!/Users/TonyFaieta/TessLanding/src/templates/blog-post.js"),
+  "component---cache-dev-404-page-js": require("gatsby-module-loader?name=component---cache-dev-404-page-js!/Users/TonyFaieta/TessLanding/.cache/dev-404-page.js"),
+  "component---src-pages-generic-js": require("gatsby-module-loader?name=component---src-pages-generic-js!/Users/TonyFaieta/TessLanding/src/pages/generic.js"),
+  "component---src-pages-index-js": require("gatsby-module-loader?name=component---src-pages-index-js!/Users/TonyFaieta/TessLanding/src/pages/index.js")
 }
 
-exports.data = () => import("/Users/TonyFaieta/TessLanding/.cache/data.json")
+exports.json = {
+  "layout-index.json": require("gatsby-module-loader?name=path---!/Users/TonyFaieta/TessLanding/.cache/json/layout-index.json"),
+  "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!/Users/TonyFaieta/TessLanding/.cache/json/my-second-post.json"),
+  "hello-world.json": require("gatsby-module-loader?name=path---hello-world!/Users/TonyFaieta/TessLanding/.cache/json/hello-world.json"),
+  "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!/Users/TonyFaieta/TessLanding/.cache/json/hi-folks.json"),
+  "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/TonyFaieta/TessLanding/.cache/json/dev-404-page.json"),
+  "generic.json": require("gatsby-module-loader?name=path---generic!/Users/TonyFaieta/TessLanding/.cache/json/generic.json"),
+  "index.json": require("gatsby-module-loader?name=path---index!/Users/TonyFaieta/TessLanding/.cache/json/index.json")
+}
 
+exports.layouts = {
+  "layout---index": require("gatsby-module-loader?name=component---src-layouts-index-js!/Users/TonyFaieta/TessLanding/.cache/layouts/index.js")
+}

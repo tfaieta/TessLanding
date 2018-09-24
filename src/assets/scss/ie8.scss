@@ -4,47 +4,80 @@
 @import 'libs/skel';
 
 /*
-	Forty by HTML5 UP
+	Stellar by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+/* Type */
+
+	body {
+		color: _palette(fg-bold);
+	}
+
 /* Button */
 
 	.button {
-		border: solid 2px !important;
+		position: relative;
+		border: solid 1px !important;
 
-		&.next {
-			padding-right: 1.75em;
+		&.special {
+			border: none !important;
+		}
+	}
 
-			&:before, &:after {
-				display: none;
+/* Icon */
+
+	.icon {
+		&.major {
+			-ms-behavior: url('assets/js/ie/PIE.htc');
+
+			&:before {
+				font-size: 4em;
+				border: 0;
 			}
 		}
 	}
 
-/* Tiles */
+/* Spotlight */
 
-	.tiles {
-		article {
+	.spotlight {
+		.image {
+			position: relative;
+			-ms-behavior: url('assets/js/ie/PIE.htc');
+
+			img {
+				position: relative;
+				-ms-behavior: url('assets/js/ie/PIE.htc');
+			}
+		}
+	}
+
+/* Features */
+
+	.features {
+		li {
+			width: 29%;
+		}
+	}
+
+/* Footer */
+
+	#footer {
+		> * {
 			width: 50%;
-			-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
-			background-size: cover;
+			margin-left: 0;
 		}
 	}
 
-/* Banner */
+/* Main */
 
-	#banner {
-		-ms-behavior: url('assets/js/ie/backgroundsize.min.htc');
-
-		&:after {
-			display: none;
+	#main {
+		> .main {
+			> .image.main:first-child {
+				margin-top: 0;
+				margin-left: 0;
+				width: 100%;
+			}
 		}
-	}
-
-/* Menu */
-
-	#menu {
-		background: _palette(bg);
 	}

@@ -1,37 +1,44 @@
 [
     {
-        "componentChunkName": "component---src-pages-index-js",
-        "jsonName": "index",
-        "path": "/"
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "my-second-post.json",
+        "path": "/my-second-post/"
     },
     {
-        "componentChunkName": "component---src-pages-404-js",
-        "jsonName": "404-html-516",
-        "path": "/404.html"
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "hello-world.json",
+        "path": "/hello-world/"
     },
     {
-        "componentChunkName": "component---src-pages-404-js",
-        "jsonName": "404-22d",
-        "path": "/404/"
+        "componentChunkName": "component---src-templates-blog-post-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "hi-folks.json",
+        "path": "/hi-folks/"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
-        "jsonName": "dev-404-page-5f9",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "dev-404-page.json",
         "path": "/dev-404-page/"
     },
     {
-        "componentChunkName": "component---src-pages-elements-js",
-        "jsonName": "elements-835",
-        "path": "/elements/"
-    },
-    {
         "componentChunkName": "component---src-pages-generic-js",
-        "jsonName": "generic-bbb",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "generic.json",
         "path": "/generic/"
     },
     {
-        "componentChunkName": "component---src-pages-landing-js",
-        "jsonName": "landing-c48",
-        "path": "/landing/"
+        "componentChunkName": "component---src-pages-index-js",
+        "layout": "layout---index",
+        "layoutComponentChunkName": "component---src-layouts-index-js",
+        "jsonName": "index.json",
+        "path": "/"
     }
 ]

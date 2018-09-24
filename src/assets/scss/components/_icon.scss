@@ -1,5 +1,5 @@
 ///
-/// Forty by HTML5 UP
+/// Stellar by HTML5 UP
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
@@ -8,6 +8,10 @@
 
 	.icon {
 		@include icon;
+		@include vendor('transition', (
+			'background-color #{_duration(transition)} ease-in-out',
+			'color #{_duration(transition)} ease-in-out'
+		));
 		border-bottom: none;
 		position: relative;
 
@@ -15,36 +19,112 @@
 			display: none;
 		}
 
-		&.alt {
+		&.major {
+			border: solid 1px;
+			display: inline-block;
+			border-radius: 100%;
+			padding: 0.65em;
+			margin: 0 0 _size(element-margin) 0;
+			cursor: default;
+
 			&:before {
-				background-color: _palette(fg-bold);
-				border-radius: 100%;
-				color: _palette(bg);
 				display: inline-block;
-				height: 2em;
-				line-height: 2em;
+				font-size: 6.25rem;
+				width: 2.25em;
+				height: 2.25em;
+				line-height: 2.2em;
+				border-radius: 100%;
+				border: solid 1px;
 				text-align: center;
-				width: 2em;
 			}
 		}
-	}
 
-	a.icon {
 		&.alt {
-			&:before {
-				@include vendor('transition', 'background-color #{_duration(transition)} ease-in-out');
-			}
+			display: inline-block;
+			border: solid 1px;
+			border-radius: 100%;
 
-			&:hover {
+			&:before {
+				display: block;
+				font-size: 1.25em;
+				width: 2em;
+				height: 2em;
+				text-align: center;
+				line-height: 2em;
+			}
+		}
+
+		&.style1 {
+			color: _palette(accent1);
+		}
+
+		&.style2 {
+			color: _palette(accent2);
+		}
+
+		&.style3 {
+			color: _palette(accent3);
+		}
+
+		&.style4 {
+			color: _palette(accent4);
+		}
+
+		&.style5 {
+			color: _palette(accent5);
+		}
+
+		@include breakpoint(xlarge) {
+			&.major {
 				&:before {
-					background-color: _palette(accent1);
+					font-size: 5.5rem;
 				}
 			}
+		}
 
-			&:active {
+		@include breakpoint(large) {
+			&.major {
 				&:before {
-					background-color: desaturate(darken(_palette(accent1), 15), 5);
+					font-size: 4.75rem;
+				}
+			}
+		}
+
+		@include breakpoint(small) {
+			&.major {
+				margin: 0 0 (_size(element-margin) * 0.75) 0;
+				padding: 0.35em;
+
+				&:before {
+					font-size: 3.5rem;
 				}
 			}
 		}
 	}
+
+	@mixin color-icon($p: null) {
+		.icon {
+			&.major {
+				border-color: _palette($p, border);
+
+				&:before {
+					border-color: _palette($p, border);
+				}
+			}
+
+			&.alt {
+ 				border-color: _palette($p, border);
+ 				color: _palette($p, fg-bold);
+
+				&:hover {
+					background-color: _palette($p, border-bg);
+				}
+
+				&:active {
+					background-color: _palette($p, border2-bg);
+				}
+ 			}
+		}
+	}
+
+	@include color-icon;

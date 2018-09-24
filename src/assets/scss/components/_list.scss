@@ -1,5 +1,5 @@
 ///
-/// Forty by HTML5 UP
+/// Stellar by HTML5 UP
 /// html5up.net | @ajlkn
 /// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 ///
@@ -30,7 +30,7 @@
 			padding-left: 0;
 
 			li {
-				border-top: solid 1px _palette(border);
+				border-top: solid 1px;
 				padding: 0.5em 0;
 
 				&:first-child {
@@ -47,16 +47,10 @@
 
 			li {
 				display: inline-block;
-				padding: 0 1em 0 0;
+				padding: 0 0.65em 0 0;
 
 				&:last-child {
-					padding-right: 0;
-				}
-			}
-
-			@include breakpoint(small) {
-				li {
-					padding: 0 0.75em 0 0;
+					padding-right: 0 !important;
 				}
 			}
 		}
@@ -78,7 +72,7 @@
 
 			&.small {
 				li {
-					padding: 0 (_size(element-margin) * 0.5) 0 0;
+					padding: 0 (_size(element-margin) * 0.25) 0 0;
 				}
 			}
 
@@ -98,6 +92,8 @@
 
 				&.small {
 					li {
+						padding: (_size(element-margin) * 0.25) 0 0 0;
+
 						&:first-child {
 							padding-top: 0;
 						}
@@ -122,74 +118,41 @@
 				}
 
 				&.small {
-					margin-left: (_size(element-margin) * -0.5);
-					width: calc(100% + #{(_size(element-margin) * 0.5)});
+					margin-left: (_size(element-margin) * -0.25);
+					width: calc(100% + #{(_size(element-margin) * 0.25)});
 
 					li {
-						padding: 0 0 0 (_size(element-margin) * 0.5);
+						padding: 0 0 0 (_size(element-margin) * 0.25);
 					}
-				}
-			}
-		}
-
-		&.pagination {
-			cursor: default;
-			list-style: none;
-			padding-left: 0;
-
-			li {
-				display: inline-block;
-				padding-left: 0;
-				vertical-align: middle;
-
-				> .page {
-					@include vendor('transition', (
-						'background-color #{_duration(transition)} ease-in-out',
-						'color #{_duration(transition)} ease-in-out'
-					));
-					border-bottom: 0;
-					display: inline-block;
-					font-size: 0.8em;
-					font-weight: _font(weight-bold);
-					height: 1.5em;
-					line-height: 1.5em;
-					margin: 0 0.125em;
-					min-width: 1.5em;
-					padding: 0 0.5em;
-					text-align: center;
-
-					&.active {
-						background-color: _palette(fg-bold);
-						color: _palette(bg);
-
-						&:hover {
-							background-color: _palette(highlight);
-							color: _palette(bg) !important;
-						}
-
-						&:active {
-							background-color: desaturate(darken(_palette(highlight), 15), 5);
-						}
-					}
-				}
-
-				&:first-child {
-					padding-right: 0.75em;
-				}
-
-				&:last-child {
-					padding-left: 0.75em;
 				}
 			}
 
 			@include breakpoint(xsmall) {
+				margin: 0 0 _size(element-margin) 0;
+
 				li {
-					&:nth-child(n+2):nth-last-child(n+2) {
-						display: none;
-					}
+					padding: (_size(element-margin) * 0.5) 0 0 0;
+					display: block;
+					text-align: center;
+					width: 100%;
 
 					&:first-child {
-						padding-right: 0;
+						padding-top: 0;
+					}
+
+					> * {
+						width: 100%;
+						margin: 0 !important;
+					}
+				}
+
+				&.small {
+					li {
+						padding: (_size(element-margin) * 0.25) 0 0 0;
+
+						&:first-child {
+							padding-top: 0;
+						}
 					}
 				}
 			}
@@ -208,4 +171,42 @@
 		dd {
 			margin-left: _size(element-margin);
 		}
+
+		&.alt {
+			dt {
+				display: block;
+				width: 3em;
+				margin: 0;
+				clear: left;
+				float: left;
+			}
+
+			dd {
+				margin: 0 0 0.85em 5.5em;
+			}
+
+			&:after {
+				content: '';
+				display: block;
+				clear: both;
+			}
+		}
 	}
+
+	@mixin color-list($p: null) {
+		ul {
+			&.alt {
+				li {
+					border-top-color: _palette($p, border);
+				}
+			}
+		}
+
+		dl {
+			dt {
+				color: _palette($p, fg-bold);
+			}
+		}
+	}
+
+	@include color-list;
