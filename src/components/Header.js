@@ -6,8 +6,8 @@ import logo from '../assets/images/logo.svg';
 const Header = (props) => (
     <header id="header" className="alt">
         <span className="logo"><img src={logo} alt="" /></span>
-        <p>Just another free, fully responsive site template<br />
-        design by <a href="https://html5up.net">HTML5 UP</a>.</p>
+        <p>An open source podcast player for <br/>
+         iOS, Android, and the Web.</p>
     </header>
 )
 
