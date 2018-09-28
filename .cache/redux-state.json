@@ -1144,20 +1144,19 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Gatsby Starter - Stellar by HTML5 UP",
-        "author": "Hunter Chang",
-        "description": "A Gatsby.js Starter based on Stellar by HTML5 UP"
+        "title": "Tess.fm",
+        "author": "Tony Faieta",
+        "description": "An Open Source Podcast Player"
       },
       "port": "8000",
       "host": "localhost",
-      "pathPrefix": "",
-      "polyfill": true,
+      "pathPrefix": "/",
       "buildTime": "2018-09-28T04:03:39.691Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "a68115def518abf9419ac354ecfa83f2",
+        "contentDigest": "58ef09c4c676f6ee919b5ce225920da2",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -2103,7 +2102,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f44754ceb093aeef6dc573647acadf35",
+        "contentDigest": "585d872197e5145c953a528694b7960f",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2124,7 +2123,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2eb051a6729f1942b5adedf5b36d7e05",
+        "contentDigest": "6191f73b643aa5ed1e56069565e62760",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2145,7 +2144,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "afcd8b1572e93c04aa09d701d7ab4b4a",
+        "contentDigest": "ab7871598d5566ae001d3f6017401635",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }

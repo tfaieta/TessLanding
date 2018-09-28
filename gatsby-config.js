@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Stellar by HTML5 UP",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
+    title: "Tess.fm",
+    author: "Tony Faieta",
+    description: "An Open Source Podcast Player"
   },
   pathPrefix: '/',
   plugins: [
