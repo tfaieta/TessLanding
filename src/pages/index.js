@@ -6,7 +6,7 @@ import Waypoint from 'react-waypoint'
 
 import Header from '../components/Header'
 import Nav from '../components/Nav'
-import pic01 from '../assets/images/pic01.jpg'
+import pic01 from '../assets/images/pic01.svg'
 
 class Index extends React.Component {
   constructor(props) {
@@ -45,16 +45,17 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>A platform made for podcast lovers by podcast lovers.</h2>
                 </header>
-                <p>Sed lorem ipsum dolor sit amet nullam consequat feugiat consequat magna
-                adipiscing magna etiam amet veroeros. Lorem ipsum dolor tempus sit cursus.
-                Tempus nisl et nullam lorem ipsum dolor sit amet aliquam.</p>
+                <p>Tess started out with an intention to make a open podcasting app, 
+                free from startup-dom and entrusted to the open-source community of developers
+                who would like to help build their dream product.
+                </p>
                 <ul className="actions">
-                  <li><Link to="/generic" className="button">Learn More</Link></li>
+                  <li><Link to="/generic" className="button">Repositories</Link></li>
                 </ul>
               </div>
-              <span className="image"><img src={pic01} alt="" /></span>
+              <span className="image"><img src={pic01} alt=""/></span>
             </div>
           </section>
 
