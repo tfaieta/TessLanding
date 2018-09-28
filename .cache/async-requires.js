@@ -10,8 +10,8 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/TonyFaieta/TessLanding/.cache/json/layout-index.json"),
-  "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!/Users/TonyFaieta/TessLanding/.cache/json/my-second-post.json"),
   "hello-world.json": require("gatsby-module-loader?name=path---hello-world!/Users/TonyFaieta/TessLanding/.cache/json/hello-world.json"),
+  "my-second-post.json": require("gatsby-module-loader?name=path---my-second-post!/Users/TonyFaieta/TessLanding/.cache/json/my-second-post.json"),
   "hi-folks.json": require("gatsby-module-loader?name=path---hi-folks!/Users/TonyFaieta/TessLanding/.cache/json/hi-folks.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/TonyFaieta/TessLanding/.cache/json/dev-404-page.json"),
   "generic.json": require("gatsby-module-loader?name=path---generic!/Users/TonyFaieta/TessLanding/.cache/json/generic.json"),

@@ -15,8 +15,8 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/TonyFaieta/TessLanding/.cache/json/layout-index.json"),
-  "my-second-post.json": require("/Users/TonyFaieta/TessLanding/.cache/json/my-second-post.json"),
   "hello-world.json": require("/Users/TonyFaieta/TessLanding/.cache/json/hello-world.json"),
+  "my-second-post.json": require("/Users/TonyFaieta/TessLanding/.cache/json/my-second-post.json"),
   "hi-folks.json": require("/Users/TonyFaieta/TessLanding/.cache/json/hi-folks.json"),
   "dev-404-page.json": require("/Users/TonyFaieta/TessLanding/.cache/json/dev-404-page.json"),
   "generic.json": require("/Users/TonyFaieta/TessLanding/.cache/json/generic.json"),
