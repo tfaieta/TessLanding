@@ -67,7 +67,7 @@ class Index extends React.Component {
               <li>
                 <span className="icon major style1 fa-code"></span>
                 <h3>Features</h3>
-                <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+                <p>A cross platform experience.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
