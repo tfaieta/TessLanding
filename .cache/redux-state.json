@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "layout": "index",
-      "jsonName": "dev-404-page.json",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/TonyFaieta/TessLanding/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin dev-404-page",
-      "pluginCreatorId": "Plugin dev-404-page",
-      "componentPath": "/Users/TonyFaieta/TessLanding/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e7493e88bd9f4bfef324968ae3e9023e",
-        "description": "Plugin dev-404-page",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -1148,16 +1138,14 @@
         "author": "Tony Faieta",
         "description": "An Open Source Podcast Player"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-09-29T00:14:59.362Z",
+      "buildTime": "2018-09-29T02:53:27.951Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "899963b648ba75f0376b84f0bbc19597",
+        "contentDigest": "4c1df1da6520b215d0acfb3ffac262d4",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1167,7 +1155,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4d8fcb8b4f13ed3aef654ba7d7837930",
+        "contentDigest": "a40851352d2b24dceae1fe1c64da572d",
         "type": "Directory",
         "description": "Directory \"src/posts\"",
         "owner": "gatsby-source-filesystem"
@@ -1179,7 +1167,7 @@
       "size": 160,
       "prettySize": "160 B",
       "modifiedTime": "2018-09-25T03:16:05.675Z",
-      "accessTime": "2018-09-29T00:15:20.237Z",
+      "accessTime": "2018-09-29T02:53:49.702Z",
       "changeTime": "2018-09-25T03:16:05.675Z",
       "birthTime": "2018-09-25T03:16:05.616Z",
       "root": "/",
@@ -1197,11 +1185,11 @@
       "blksize": 4096,
       "ino": 8618666845,
       "blocks": 0,
-      "atimeMs": 1538180120236.5637,
+      "atimeMs": 1538189629701.789,
       "mtimeMs": 1537845365675.2556,
       "ctimeMs": 1537845365675.2556,
       "birthtimeMs": 1537845365616.338,
-      "atime": "2018-09-29T00:15:20.237Z",
+      "atime": "2018-09-29T02:53:49.702Z",
       "mtime": "2018-09-25T03:16:05.675Z",
       "ctime": "2018-09-25T03:16:05.675Z",
       "birthtime": "2018-09-25T03:16:05.616Z"
@@ -1211,7 +1199,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "ab239909690943fa232da5e29d11aa8d",
+        "contentDigest": "42bf88094939aee0eaa7b3f91f223123",
         "type": "Directory",
         "description": "Directory \"src/posts/hello-world\"",
         "owner": "gatsby-source-filesystem"
@@ -1223,7 +1211,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-09-25T03:16:05.618Z",
-      "accessTime": "2018-09-29T00:15:20.239Z",
+      "accessTime": "2018-09-29T02:53:49.705Z",
       "changeTime": "2018-09-25T03:16:05.618Z",
       "birthTime": "2018-09-25T03:16:05.617Z",
       "root": "/",
@@ -1241,11 +1229,11 @@
       "blksize": 4096,
       "ino": 8618666846,
       "blocks": 0,
-      "atimeMs": 1538180120239.188,
+      "atimeMs": 1538189629704.75,
       "mtimeMs": 1537845365617.882,
       "ctimeMs": 1537845365617.882,
       "birthtimeMs": 1537845365616.5918,
-      "atime": "2018-09-29T00:15:20.239Z",
+      "atime": "2018-09-29T02:53:49.705Z",
       "mtime": "2018-09-25T03:16:05.618Z",
       "ctime": "2018-09-25T03:16:05.618Z",
       "birthtime": "2018-09-25T03:16:05.617Z"
@@ -1255,7 +1243,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "58a9308255a1fbaf137eee103535f8ae",
+        "contentDigest": "e45d1e450cb686021de9eb0722d5972d",
         "type": "Directory",
         "description": "Directory \"src/posts/hi-folks\"",
         "owner": "gatsby-source-filesystem"
@@ -1267,7 +1255,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-09-25T03:16:05.673Z",
-      "accessTime": "2018-09-29T00:15:20.239Z",
+      "accessTime": "2018-09-29T02:53:49.705Z",
       "changeTime": "2018-09-25T03:16:05.673Z",
       "birthTime": "2018-09-25T03:16:05.673Z",
       "root": "/",
@@ -1285,11 +1273,11 @@
       "blksize": 4096,
       "ino": 8618666849,
       "blocks": 0,
-      "atimeMs": 1538180120239.2048,
+      "atimeMs": 1538189629704.7947,
       "mtimeMs": 1537845365673.3914,
       "ctimeMs": 1537845365673.3914,
       "birthtimeMs": 1537845365673.2427,
-      "atime": "2018-09-29T00:15:20.239Z",
+      "atime": "2018-09-29T02:53:49.705Z",
       "mtime": "2018-09-25T03:16:05.673Z",
       "ctime": "2018-09-25T03:16:05.673Z",
       "birthtime": "2018-09-25T03:16:05.673Z"
@@ -1299,7 +1287,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "063fac62a404b1b62f7ec4cc09ebc622",
+        "contentDigest": "8d42f30c001e1819561cfab7907850b5",
         "type": "Directory",
         "description": "Directory \"src/posts/my-second-post\"",
         "owner": "gatsby-source-filesystem"
@@ -1311,7 +1299,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-09-25T03:16:05.675Z",
-      "accessTime": "2018-09-29T00:15:20.239Z",
+      "accessTime": "2018-09-29T02:53:49.705Z",
       "changeTime": "2018-09-25T03:16:05.675Z",
       "birthTime": "2018-09-25T03:16:05.675Z",
       "root": "/",
@@ -1329,11 +1317,11 @@
       "blksize": 4096,
       "ino": 8618666851,
       "blocks": 0,
-      "atimeMs": 1538180120239.2217,
+      "atimeMs": 1538189629704.9685,
       "mtimeMs": 1537845365675.4077,
       "ctimeMs": 1537845365675.4077,
       "birthtimeMs": 1537845365675.2444,
-      "atime": "2018-09-29T00:15:20.239Z",
+      "atime": "2018-09-29T02:53:49.705Z",
       "mtime": "2018-09-25T03:16:05.675Z",
       "ctime": "2018-09-25T03:16:05.675Z",
       "birthtime": "2018-09-25T03:16:05.675Z"
@@ -1604,7 +1592,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "5e5b4f88c79db45e78cf9f74f533d376",
+        "contentDigest": "3851e9dade0810f78bc8714bac0705cb",
         "type": "Directory",
         "description": "Directory \"src/assets/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1613,11 +1601,11 @@
       "absolutePath": "/Users/TonyFaieta/TessLanding/src/assets/images",
       "relativePath": "",
       "extension": "",
-      "size": 384,
-      "prettySize": "384 B",
-      "modifiedTime": "2018-09-28T04:11:02.833Z",
-      "accessTime": "2018-09-29T00:15:20.473Z",
-      "changeTime": "2018-09-28T04:11:02.833Z",
+      "size": 448,
+      "prettySize": "448 B",
+      "modifiedTime": "2018-09-29T02:39:48.214Z",
+      "accessTime": "2018-09-29T02:53:49.860Z",
+      "changeTime": "2018-09-29T02:39:48.214Z",
       "birthTime": "2018-09-25T03:16:05.577Z",
       "root": "/",
       "dir": "/Users/TonyFaieta/TessLanding/src/assets",
@@ -1627,20 +1615,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 12,
+      "nlink": 14,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4096,
       "ino": 8618666794,
       "blocks": 0,
-      "atimeMs": 1538180120473.269,
-      "mtimeMs": 1538107862833.211,
-      "ctimeMs": 1538107862833.211,
+      "atimeMs": 1538189629859.6682,
+      "mtimeMs": 1538188788213.6218,
+      "ctimeMs": 1538188788213.6218,
       "birthtimeMs": 1537845365577.1135,
-      "atime": "2018-09-29T00:15:20.473Z",
-      "mtime": "2018-09-28T04:11:02.833Z",
-      "ctime": "2018-09-28T04:11:02.833Z",
+      "atime": "2018-09-29T02:53:49.860Z",
+      "mtime": "2018-09-29T02:39:48.214Z",
+      "ctime": "2018-09-29T02:39:48.214Z",
       "birthtime": "2018-09-25T03:16:05.577Z"
     },
     "/Users/TonyFaieta/TessLanding/src/assets/images/pic01.jpg absPath of file": {
@@ -2132,111 +2120,6 @@
         "owner": "gatsby-transformer-sharp"
       }
     },
-    "SitePage /hello-world/": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world/",
-      "component": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
-      "id": "SitePage /hello-world/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "50532509c5be6e6b52c99155425a8e1a",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /my-second-post/": {
-      "layout": "index",
-      "jsonName": "my-second-post.json",
-      "internalComponentName": "ComponentMySecondPost",
-      "path": "/my-second-post/",
-      "component": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
-      "id": "SitePage /my-second-post/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "48e027edb1cecd6453510496ebaf1473",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /hi-folks/": {
-      "layout": "index",
-      "jsonName": "hi-folks.json",
-      "internalComponentName": "ComponentHiFolks",
-      "path": "/hi-folks/",
-      "component": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
-      "id": "SitePage /hi-folks/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "cf5df5fc6ea2a7bf0d66f358fa067ae2",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /generic/": {
-      "layout": "index",
-      "jsonName": "generic.json",
-      "internalComponentName": "ComponentGeneric",
-      "path": "/generic/",
-      "component": "/Users/TonyFaieta/TessLanding/src/pages/generic.js",
-      "componentChunkName": "component---src-pages-generic-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/TonyFaieta/TessLanding/src/pages/generic.js",
-      "id": "SitePage /generic/",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "bd0b5c8275aba9b723e3aff9dd25fe45",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "layout": "index",
-      "jsonName": "index.json",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/TonyFaieta/TessLanding/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
-      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
-      "componentPath": "/Users/TonyFaieta/TessLanding/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "217caaf6ffc12b0557194aee18b25df8",
-        "description": "Plugin gatsby-plugin-page-creator",
-        "owner": "internal-data-bridge"
-      }
-    },
     "/Users/TonyFaieta/TessLanding/src/assets/images/pic01.png absPath of file": {
       "id": "/Users/TonyFaieta/TessLanding/src/assets/images/pic01.png absPath of file",
       "children": [
@@ -2338,6 +2221,111 @@
       "mtime": "2018-09-29T02:39:48.213Z",
       "ctime": "2018-09-29T02:39:48.214Z",
       "birthtime": "2018-09-29T02:35:52.984Z"
+    },
+    "SitePage /hello-world/": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world/",
+      "component": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
+      "id": "SitePage /hello-world/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e35890c6602ba45757e99c9df08cd515",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /my-second-post/": {
+      "layout": "index",
+      "jsonName": "my-second-post.json",
+      "internalComponentName": "ComponentMySecondPost",
+      "path": "/my-second-post/",
+      "component": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
+      "id": "SitePage /my-second-post/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "8ca3801fa76edf9a92ef1325c435939b",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hi-folks/": {
+      "layout": "index",
+      "jsonName": "hi-folks.json",
+      "internalComponentName": "ComponentHiFolks",
+      "path": "/hi-folks/",
+      "component": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/TonyFaieta/TessLanding/src/templates/blog-post.js",
+      "id": "SitePage /hi-folks/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "d9a2b2b3229ca16aeb018964fef735b0",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /generic/": {
+      "layout": "index",
+      "jsonName": "generic.json",
+      "internalComponentName": "ComponentGeneric",
+      "path": "/generic/",
+      "component": "/Users/TonyFaieta/TessLanding/src/pages/generic.js",
+      "componentChunkName": "component---src-pages-generic-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/TonyFaieta/TessLanding/src/pages/generic.js",
+      "id": "SitePage /generic/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4564fb692d5934a87715eee51c06579a",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "layout": "index",
+      "jsonName": "index.json",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/TonyFaieta/TessLanding/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/TonyFaieta/TessLanding/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5bcb5350e03cbf0a17c5575d8aabf1d5",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
