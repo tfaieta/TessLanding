@@ -41,7 +41,7 @@ class Index extends React.Component {
 
         <div id="main">
 
-          <section id="intro" className="main">
+          <section id="intro" className="main special">
             <div className="spotlight">
               <div className="content">
                 <header className="major">
@@ -51,23 +51,24 @@ class Index extends React.Component {
                 free from startup-dom and entrusted to the open-source community of developers
                 who would like to help build their dream product.
                 </p>
-                <ul className="actions">
+                {/* <ul className="actions">
                   <li><Link to="/generic" className="button">Repositories</Link></li>
-                </ul>
+                </ul> */}
               </div>
-              <span className="image"><img src={pic01} alt=""/></span>
             </div>
+            <span className="picture"><img src={pic01} alt=""/></span>
           </section>
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
+              <h2>Features</h2>
             </header>
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3>Features</h3>
-                <p>A cross platform experience.</p>
+                <h3>Use it everywhere</h3>
+                <p>Tess works on iPhone, Android, and and the web, 
+                so you can listen wherever you are. One login let's you jump between devices.</p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
