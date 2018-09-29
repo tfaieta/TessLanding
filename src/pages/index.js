@@ -66,14 +66,14 @@ class Index extends React.Component {
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3>Use it everywhere</h3>
-                <p>Tess works on iPhone, Android, and and the web, 
-                so you can listen wherever you are. One login let's you jump between devices.</p>
+                <h3>Amed sed feugiat</h3>
+                <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>                
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
-                <h3>Amed sed feugiat</h3>
-                <p>Sed lorem amet ipsum dolor et amet nullam consequat a feugiat consequat tempus veroeros sed consequat.</p>
+                <h3>Use it everywhere</h3>
+                <p>Tess works on iPhone, Android, and and the web, 
+                so you can listen wherever you are. One login let's you jump between devices.</p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
