@@ -51,9 +51,6 @@ class Index extends React.Component {
                 free from startup-dom and entrusted to the open-source community of developers
                 who would like to help build their dream product.
                 </p>
-                {/* <ul className="actions">
-                  <li><Link to="/generic" className="button">Repositories</Link></li>
-                </ul> */}
               </div>
             </div>
             <span className="picture"><img src={pic01} alt=""/></span>
@@ -125,9 +122,9 @@ class Index extends React.Component {
             </header>
             <footer className="major">
               <ul className="actions">
-                <li><a href="/generic" className="button iOS">iOS</a></li>
-                <li><a href="/generic" className="button android">Android</a></li>
-                <li><a href="/generic" className="button web">Web</a></li>
+                <li><a href="https://itunes.apple.com/us/app/tess-podcast-app/id1409521849?ls=1&mt=8" className="button iOS">iOS</a></li>
+                <li><a href="https://play.google.com/store/apps/details?id=com.tess" className="button android">Android</a></li>
+                <li><a href="https://app.tess.fm/" className="button web">Web</a></li>
               </ul>
             </footer>
           </section>
