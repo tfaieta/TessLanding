@@ -86,8 +86,48 @@
 				}
 			}
 
-			&.special {
-				background-color: _palette(accent);
+			&.iOS {
+				background-color: #3e4164;
+				color: _palette(invert, bg) !important;
+				box-shadow: none;
+
+				&:hover {
+					background-color: lighten(_palette(accent), 3);
+				}
+
+				&:active {
+					background-color: darken(_palette(accent), 3);
+				}
+
+				&.icon {
+					&:before {
+						color: _palette(invert, bg) !important;
+					}
+				}
+			}
+
+			&.android {
+				background-color: #D15564;
+				color: _palette(invert, bg) !important;
+				box-shadow: none;
+
+				&:hover {
+					background-color: lighten(_palette(accent), 3);
+				}
+
+				&:active {
+					background-color: darken(_palette(accent), 3);
+				}
+
+				&.icon {
+					&:before {
+						color: _palette(invert, bg) !important;
+					}
+				}
+			}
+
+			&.web {
+				background-color: #506DCF;
 				color: _palette(invert, bg) !important;
 				box-shadow: none;
 

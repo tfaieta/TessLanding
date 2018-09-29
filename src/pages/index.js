@@ -119,14 +119,15 @@ class Index extends React.Component {
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
-              <p>Donec imperdiet consequat consequat. Suspendisse feugiat congue<br />
-              posuere. Nulla massa urna, fermentum eget quam aliquet.</p>
+              <h2>Download Tess!</h2>
+              <p>Of course, this site wouldn't be complete if we didn't let you download Tess.<br/>
+              Below are iOS, Android, and web links.</p>
             </header>
             <footer className="major">
               <ul className="actions">
-                <li><Link to="/generic" className="button special">Get Started</Link></li>
-                <li><Link to="/generic" className="button">Learn More</Link></li>
+                <li><a href="/generic" className="button iOS">iOS</a></li>
+                <li><a href="/generic" className="button android">Android</a></li>
+                <li><a href="/generic" className="button web">Web</a></li>
               </ul>
             </footer>
           </section>
