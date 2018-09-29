@@ -2148,7 +2148,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "00aa5eaf54896213ed86eb065b9567f1",
+        "contentDigest": "50532509c5be6e6b52c99155425a8e1a",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2169,7 +2169,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "25f465413d55a063fd20e2ad9911ae30",
+        "contentDigest": "48e027edb1cecd6453510496ebaf1473",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2190,7 +2190,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "022c0c8fab82469b1440abcb19cab28a",
+        "contentDigest": "cf5df5fc6ea2a7bf0d66f358fa067ae2",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -2293,6 +2293,51 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "/Users/TonyFaieta/TessLanding/src/assets/images/github.svg absPath of file": {
+      "id": "/Users/TonyFaieta/TessLanding/src/assets/images/github.svg absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a56223e9550600f5d1240e24543113d4",
+        "mediaType": "image/svg+xml",
+        "type": "File",
+        "description": "File \"src/assets/images/github.svg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/TonyFaieta/TessLanding/src/assets/images/github.svg",
+      "relativePath": "github.svg",
+      "extension": "svg",
+      "size": 641,
+      "prettySize": "641 B",
+      "modifiedTime": "2018-09-29T02:39:48.213Z",
+      "accessTime": "2018-09-29T02:39:48.311Z",
+      "changeTime": "2018-09-29T02:39:48.214Z",
+      "birthTime": "2018-09-29T02:35:52.984Z",
+      "root": "/",
+      "dir": "/Users/TonyFaieta/TessLanding/src/assets/images",
+      "base": "github.svg",
+      "ext": ".svg",
+      "name": "github",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4096,
+      "ino": 8620499837,
+      "blocks": 8,
+      "atimeMs": 1538188788310.5076,
+      "mtimeMs": 1538188788213,
+      "ctimeMs": 1538188788214.129,
+      "birthtimeMs": 1538188552983.748,
+      "atime": "2018-09-29T02:39:48.311Z",
+      "mtime": "2018-09-29T02:39:48.213Z",
+      "ctime": "2018-09-29T02:39:48.214Z",
+      "birthtime": "2018-09-29T02:35:52.984Z"
     }
   },
   "status": {

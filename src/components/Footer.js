@@ -6,7 +6,7 @@ import logo from '../assets/images/logo.svg';
 const Footer = (props) => (
     <footer id="footer">
         <section>
-            <p>Tess was a project started by Tony Faieta and Nick Ruspantini during our junior year of college at 
+            <p>Tess was a project started by <a href="https://tfaieta.com/">Tony Faieta</a> and <a href="mailto:nickr1196@gmail.com">Nick Ruspantini</a> during our junior year of college at 
             the University of Florida. Currently, it is maintained by Tony and we are open to pull requests.
             <br/>
             <br/>If you would like to get in contact with us, please email: 
