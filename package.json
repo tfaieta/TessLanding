@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "author": "Hunter Chang",
   "dependencies": {
+    "firebase-tools": "^6.2.2",
     "gatsby": "^1.9.235",
     "gatsby-image": "^1.0.42",
     "gatsby-link": "^1.6.39",
