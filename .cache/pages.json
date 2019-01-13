@@ -3,8 +3,8 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hello-world.json",
-        "path": "/hello-world/"
+        "jsonName": "hi-folks.json",
+        "path": "/hi-folks/"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
@@ -17,8 +17,8 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hi-folks.json",
-        "path": "/hi-folks/"
+        "jsonName": "hello-world.json",
+        "path": "/hello-world/"
     },
     {
         "componentChunkName": "component---src-pages-generic-js",
