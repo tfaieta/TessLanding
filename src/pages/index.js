@@ -134,38 +134,27 @@ class Index extends React.Component {
 
                     <section id="cta" className="main special">
                         <header className="major">
-                            <h2>Download Tess!</h2>
+                            <h2>Check out Tess!</h2>
                             <p>
-                                Of course, this site wouldn't be complete if we
-                                didn't let you download Tess.
-                                <br />
-                                Below are iOS, Android, and web links.
+                                Please feel free to checkout the code bases!
                             </p>
                         </header>
                         <footer className="major">
                             <ul className="actions">
                                 <li>
                                     <a
-                                        href="https://itunes.apple.com/us/app/tess-podcast-app/id1409521849?ls=1&mt=8"
-                                        className="button iOS"
+                                        href="https://github.com/tfaieta/TessMobile"
+                                        className="button mobile"
                                     >
-                                        iOS
+                                        Mobile Repo
                                     </a>
                                 </li>
                                 <li>
                                     <a
-                                        href="https://play.google.com/store/apps/details?id=com.tess"
-                                        className="button android"
-                                    >
-                                        Android
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
-                                        href="https://app.tess.fm/"
+                                        href="https://github.com/tfaieta/TessWebPlayer"
                                         className="button web"
                                     >
-                                        Web
+                                        Web Repo
                                     </a>
                                 </li>
                             </ul>
