@@ -17,7 +17,7 @@
     "gatsby-source-filesystem": "^1.5.27",
     "gatsby-transformer-remark": "^1.7.37",
     "gatsby-transformer-sharp": "^1.6.22",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "react-scroll-to-element": "^0.2.0",
     "react-scrollspy": "^3.3.5",
     "react-waypoint": "^8.0.1"
